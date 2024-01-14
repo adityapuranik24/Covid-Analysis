@@ -1,0 +1,830 @@
+OBJECTID,HOSPITAL_NAME,HOSPITAL_TYPE,COUNTY_NAME,STATE_NAME,STATE_FIPS,CNTY_FIPS,FIPS,NUM_LICENSED_BEDS,NUM_STAFFED_BEDS,NUM_ICU_BEDS,ADULT_ICU_BEDS,PEDI_ICU_BEDS,BED_UTILIZATION,AVG_VENTILATOR_USAGE,Potential_Increase_In_Bed_Capac
+1,Phoenix VA Health Care System (AKA Carl T Hayden VA Medical Center),VA Hospital,Maricopa,Arizona,4,13,4013,129,129,0,0,0,0.0,0,0
+2,Southern Arizona VA Health Care System,VA Hospital,Pima,Arizona,4,19,4019,295,295,2,2,0,0.0,2,0
+3,VA Central California Health Care System,VA Hospital,Fresno,California,6,19,6019,57,57,2,2,0,0.0,2,0
+4,VA Connecticut Healthcare System - West Haven Campus (AKA West Haven VA Medical Center),VA Hospital,New Haven,Connecticut,9,9,9009,216,216,1,1,0,0.0,2,0
+5,Wilmington VA Medical Center,VA Hospital,New Castle,Delaware,10,3,10003,60,60,0,0,0,0.0,1,0
+6,Washington DC VA Medical Center,VA Hospital,District of Columbia,District of Columbia,11,1,11001,164,164,1,1,0,0.0,2,0
+7,North Florida/South Georgia Veterans Health System - Malcom Randall VA Medical Center,VA Hospital,Alachua,Florida,12,1,12001,432,289,2,2,0,0.0,2,143
+8,Boise VA Medical Center,VA Hospital,Ada,Idaho,16,1,16001,46,46,1,1,0,0.0,1,0
+9,Overton Brooks VA Medical Center,VA Hospital,Caddo,Louisiana,22,17,22017,111,111,1,1,0,0.0,2,0
+10,Merit Health River Oaks (FKA River Oaks Hospital - Jackson),Short Term Acute Care Hospital,Rankin,Mississippi,28,121,28121,160,160,10,10,20,0.27986822,2,0
+11,Harry S Truman Memorial Veterans Hospital,VA Hospital,Boone,Missouri,29,19,29019,126,126,2,2,0,0.0,2,0
+12,New Mexico VA Health Care System - Raymond G Murphy VA Medical Center,VA Hospital,Bernalillo,New Mexico,35,1,35001,184,184,1,1,0,0.0,1,0
+13,Albany Stratton VA Medical Center,VA Hospital,Albany,New York,36,1,36001,156,156,2,2,0,0.0,2,0
+14,James J Peters VA Medical Center,VA Hospital,Bronx,New York,36,5,36005,311,311,2,2,0,0.0,2,0
+15,Fargo VA Health Care System,VA Hospital,Cass,North Dakota,38,17,38017,37,37,1,1,0,0.0,1,0
+16,Roseburg VA Health Care System,VA Hospital,Douglas,Oregon,41,19,41019,0,0,0,0,0,0.0,0,0
+17,VA Pittsburgh Healthcare System - University Drive,VA Hospital,Allegheny,Pennsylvania,42,3,42003,146,146,2,2,0,0.0,2,0
+18,Prattville Baptist Hospital,Short Term Acute Care Hospital,Autauga,Alabama,1,1,1001,85,55,6,6,0,0.5846498,2,30
+19,Thomas Hospital,Short Term Acute Care Hospital,Baldwin,Alabama,1,3,1003,150,129,17,17,0,0.8743124,3,21
+20,North Baldwin Infirmary,Short Term Acute Care Hospital,Baldwin,Alabama,1,3,1003,58,25,4,4,0,0.5503824900000001,2,33
+21,Medical Center Barbour,Short Term Acute Care Hospital,Barbour,Alabama,1,5,1005,74,30,5,5,0,0.37872148,2,44
+22,Bibb Medical Center,Short Term Acute Care Hospital,Bibb,Alabama,1,7,1007,35,25,4,4,0,0.43090412,1,10
+23,St Vincents Blount,Critical Access Hospital,Blount,Alabama,1,9,1009,25,25,6,6,0,0.45202187,2,0
+24,Bullock County Hospital,Short Term Acute Care Hospital,Bullock,Alabama,1,11,1011,61,25,5,5,0,0.32164383,1,36
+25,Regional Medical Center of Central Alabama (FKA LV Stabler Memorial Hospital),Short Term Acute Care Hospital,Butler,Alabama,1,13,1013,72,44,7,7,0,0.18711084,2,28
+26,Stringfellow Memorial Hospital,Short Term Acute Care Hospital,Calhoun,Alabama,1,15,1015,125,125,6,6,0,0.25909042,2,0
+27,Regional Medical Center Anniston (FKA Northeast Alabama Regional Medical Center - Anniston),Short Term Acute Care Hospital,Calhoun,Alabama,1,15,1015,323,272,18,18,0,0.51079774,11,51
+28,East Alabama Medical Center - Lanier,Short Term Acute Care Hospital,Chambers,Alabama,1,17,1017,115,84,15,15,0,0.39872646,0,31
+29,Cherokee Medical Center,Short Term Acute Care Hospital,Cherokee,Alabama,1,19,1019,60,45,8,8,0,0.20437159,1,15
+30,Grove Hill Memorial Hospital,Short Term Acute Care Hospital,Clarke,Alabama,1,25,1025,50,21,4,4,0,0.21870933,1,29
+31,Jackson Medical Center,Short Term Acute Care Hospital,Clarke,Alabama,1,25,1025,35,35,6,6,0,0.24438356,1,0
+32,Clay County Hospital,Short Term Acute Care Hospital,Clay,Alabama,1,27,1027,45,46,4,4,0,0.28064325,2,-1
+33,Medical Center Enterprise,Short Term Acute Care Hospital,Coffee,Alabama,1,31,1031,131,99,7,7,0,0.27961808,2,32
+34,North Alabama Shoals Hospital (FKA Shoals Hospital),Short Term Acute Care Hospital,Colbert,Alabama,1,33,1033,198,122,10,10,0,0.17876019,2,76
+35,Evergreen Medical Center,Short Term Acute Care Hospital,Conecuh,Alabama,1,35,1035,58,44,8,8,0,0.29943961,0,14
+36,Andalusia Regional Hospital (AKA Andalusia Health),Short Term Acute Care Hospital,Covington,Alabama,1,39,1039,88,83,8,8,0,0.31137666,2,5
+37,Mizell Memorial Hospital,Short Term Acute Care Hospital,Covington,Alabama,1,39,1039,99,45,5,5,0,0.30630136,2,54
+38,Crenshaw Community Hospital,Short Term Acute Care Hospital,Crenshaw,Alabama,1,41,1041,65,29,5,5,0,0.13989028,2,36
+39,Cullman Regional Medical Center,Short Term Acute Care Hospital,Cullman,Alabama,1,43,1043,145,133,12,12,0,0.5414561,5,12
+40,Dale Medical Center,Short Term Acute Care Hospital,Dale,Alabama,1,45,1045,89,77,6,6,0,0.26493508,2,12
+41,Vaughan Regional Medical Center,Short Term Acute Care Hospital,Dallas,Alabama,1,47,1047,175,109,23,23,0,0.38494509,2,66
+42,Dekalb Regional Medical Center,Short Term Acute Care Hospital,DeKalb,Alabama,1,49,1049,134,97,12,12,0,0.27885753,3,37
+43,Community Hospital,Short Term Acute Care Hospital,Elmore,Alabama,1,51,1051,69,37,5,5,0,0.29389116,2,32
+44,Elmore Community Hospital,Short Term Acute Care Hospital,Elmore,Alabama,1,51,1051,69,33,6,6,0,0.30469075,1,36
+45,DW McMillan Memorial Hospital,Short Term Acute Care Hospital,Escambia,Alabama,1,53,1053,91,46,8,8,0,0.33484218,2,45
+46,Atmore Community Hospital,Short Term Acute Care Hospital,Escambia,Alabama,1,53,1053,51,49,6,6,0,0.3566117,2,2
+47,Gadsden Regional Medical Center,Short Term Acute Care Hospital,Etowah,Alabama,1,55,1055,346,222,40,40,0,0.73435766,8,124
+48,Riverview Regional Medical Center,Short Term Acute Care Hospital,Etowah,Alabama,1,55,1055,281,256,45,45,0,0.25446275,6,25
+49,Fayette Medical Center (FKA Weimer Medical Center),Short Term Acute Care Hospital,Fayette,Alabama,1,57,1057,61,45,8,8,0,0.23293759,2,16
+50,Russellville Hospital,Short Term Acute Care Hospital,Franklin,Alabama,1,59,1059,100,49,7,7,0,0.35532569999999997,2,51
+51,Red Bay Hospital,Critical Access Hospital,Franklin,Alabama,1,59,1059,25,25,4,4,0,0.26641095,1,0
+52,Wiregrass Medical Center,Short Term Acute Care Hospital,Geneva,Alabama,1,61,1061,83,73,6,6,0,0.13143179,2,10
+53,Greene County Hospital,Short Term Acute Care Hospital,Greene,Alabama,1,63,1063,20,20,4,4,0,0.24164383,0,0
+54,Hale County Hospital,Short Term Acute Care Hospital,Hale,Alabama,1,65,1065,39,28,5,5,0,0.26086107000000003,0,11
+55,Flowers Hospital,Short Term Acute Care Hospital,Houston,Alabama,1,69,1069,235,235,26,26,6,0.61429322,8,0
+56,Southeast Health (FKA Southeast Alabama Medical Center),Short Term Acute Care Hospital,Houston,Alabama,1,69,1069,420,342,40,40,16,0.77072817,8,78
+57,Highlands Medical Center,Short Term Acute Care Hospital,Jackson,Alabama,1,71,1071,170,92,10,10,0,0.6282690200000001,2,78
+58,St Vincents Birmingham,Short Term Acute Care Hospital,Jefferson,Alabama,1,73,1073,409,399,83,83,30,0.5378336300000001,13,10
+59,Princeton Baptist Medical Center,Short Term Acute Care Hospital,Jefferson,Alabama,1,73,1073,505,279,33,33,12,0.69173664,9,226
+60,Grandview Medical Center (FKA Trinity Medical Center),Short Term Acute Care Hospital,Jefferson,Alabama,1,73,1073,402,373,72,72,12,0.70658082,8,29
+61,St Vincents East (FKA Medical Center East),Short Term Acute Care Hospital,Jefferson,Alabama,1,73,1073,362,309,44,44,0,0.69054943,12,53
+62,UAB Callahan Eye Hospital,Short Term Acute Care Hospital,Jefferson,Alabama,1,73,1073,106,12,2,2,0,0.05913242,0,94
+63,Helen Keller Hospital,Short Term Acute Care Hospital,Colbert,Alabama,1,33,1033,185,178,12,12,0,0.38922581,4,7
+64,UAB Hospital,Short Term Acute Care Hospital,Jefferson,Alabama,1,73,1073,1157,1100,85,85,106,0.8154819,29,57
+65,Medical West Hospital,Short Term Acute Care Hospital,Jefferson,Alabama,1,73,1073,310,187,21,21,0,0.45702147,3,123
+66,Birmingham VA Medical Center,VA Hospital,Jefferson,Alabama,1,73,1073,313,131,0,0,0,0.0,0,182
+67,Brookwood Baptist Medical Center (FKA Brookwood Medical Center),Short Term Acute Care Hospital,Jefferson,Alabama,1,73,1073,595,425,26,26,32,0.40734889999999996,8,170
+68,North Alabama Medical Center (FKA Eliza Coffee Memorial Hospital),Short Term Acute Care Hospital,Lauderdale,Alabama,1,77,1077,263,223,36,36,0,0.7035948,6,40
+69,Lawrence Medical Center,Short Term Acute Care Hospital,Lawrence,Alabama,1,79,1079,98,43,6,6,0,0.15132208,2,55
+70,East Alabama Medical Center - Opelika,Short Term Acute Care Hospital,Lee,Alabama,1,81,1081,314,299,20,20,0,0.68810189,10,15
+71,Athens-Limestone Hospital,Short Term Acute Care Hospital,Limestone,Alabama,1,83,1083,71,66,10,10,0,0.49176189000000003,3,5
+72,Huntsville Hospital,Short Term Acute Care Hospital,Madison,Alabama,1,89,1089,881,887,67,67,46,0.67195249,21,-6
+73,Crestwood Medical Center,Short Term Acute Care Hospital,Madison,Alabama,1,89,1089,180,190,16,16,3,0.5589013700000001,3,-10
+74,Whitfield Regional Hospital (FKA Bryan W Whitfield Memorial Hospital),Short Term Acute Care Hospital,Marengo,Alabama,1,91,1091,99,37,5,5,0,0.36645687,2,62
+75,Northwest Medical Center,Short Term Acute Care Hospital,Marion,Alabama,1,93,1093,71,42,4,4,0,0.22015655,2,29
+76,North Mississippi Medical Center - Hamilton,Short Term Acute Care Hospital,Marion,Alabama,1,93,1093,49,36,4,4,0,0.23843227,1,13
+77,Marshall Medical Center South,Short Term Acute Care Hospital,Marshall,Alabama,1,95,1095,150,150,20,20,0,0.43511954,7,0
+78,USA Health University Hospital (FKA University of South Alabama Medical Center),Short Term Acute Care Hospital,Mobile,Alabama,1,97,1097,406,183,32,32,0,0.87147242,4,223
+79,Providence Hospital,Short Term Acute Care Hospital,Mobile,Alabama,1,97,1097,349,349,33,33,0,0.48205647,8,0
+80,Mobile Infirmary,Short Term Acute Care Hospital,Mobile,Alabama,1,97,1097,669,596,38,38,0,0.66353315,11,73
+81,Springhill Medical Center,Short Term Acute Care Hospital,Mobile,Alabama,1,97,1097,263,188,20,20,0,0.77661031,5,75
+82,USA Childrens & Womens Hospital,Childrens Hospital,Mobile,Alabama,1,97,1097,152,101,118,118,118,0.62734205,1,51
+83,Monroe County Hospital,Short Term Acute Care Hospital,Monroe,Alabama,1,99,1099,94,49,8,8,0,0.11646631,2,45
+84,Baptist Medical Center East,Short Term Acute Care Hospital,Montgomery,Alabama,1,101,1101,150,150,12,12,25,0.69636494,2,0
+85,Central Alabama Veterans Health Care System - West Campus,VA Hospital,Montgomery,Alabama,1,101,1101,143,143,1,1,0,0.0,1,0
+86,Baptist Medical Center South,Short Term Acute Care Hospital,Montgomery,Alabama,1,101,1101,432,326,26,26,40,0.73047203,8,106
+87,Jackson Hospital,Short Term Acute Care Hospital,Montgomery,Alabama,1,101,1101,344,270,34,34,0,0.7106545,5,74
+88,Decatur Morgan Hospital - Decatur Campus (FKA Decatur General Hospital),Short Term Acute Care Hospital,Morgan,Alabama,1,103,1103,273,266,23,23,0,0.42288098,3,7
+89,Troy Regional Medical Center,Short Term Acute Care Hospital,Pike,Alabama,1,109,1109,97,41,9,9,0,0.33673197,2,56
+90,Jack Hughston Memorial Hospital,Short Term Acute Care Hospital,Russell,Alabama,1,113,1113,70,47,8,8,0,0.36496648,2,23
+91,St Vincents St Clair,Short Term Acute Care Hospital,St. Clair,Alabama,1,115,1115,40,40,6,6,0,0.44651639,2,0
+92,Shelby Baptist Medical Center,Short Term Acute Care Hospital,Shelby,Alabama,1,117,1117,252,212,32,32,0,0.57423109,6,40
+93,Hill Hospital of Sumter County,Short Term Acute Care Hospital,Sumter,Alabama,1,119,1119,33,33,6,6,0,0.42341219999999996,0,0
+94,Coosa Valley Medical Center,Short Term Acute Care Hospital,Talladega,Alabama,1,121,1121,168,122,8,8,0,0.25318015,2,46
+95,Citizens Baptist Medical Center,Short Term Acute Care Hospital,Talladega,Alabama,1,121,1121,122,103,6,6,0,0.20712861,2,19
+96,Lake Martin Community Hospital,Short Term Acute Care Hospital,Tallapoosa,Alabama,1,123,1123,46,46,8,8,0,0.096366882,0,0
+97,Russell Medical Center,Short Term Acute Care Hospital,Tallapoosa,Alabama,1,123,1123,81,43,6,6,0,0.45014337,2,38
+98,DCH Regional Medical Center,Short Term Acute Care Hospital,Tuscaloosa,Alabama,1,125,1125,583,524,52,52,51,0.7311095,31,59
+99,Tuscaloosa VA Medical Center,VA Hospital,Tuscaloosa,Alabama,1,125,1125,96,96,0,0,0,0.0,0,0
+100,Walker Baptist Medical Center,Short Term Acute Care Hospital,Walker,Alabama,1,127,1127,267,207,12,12,0,0.29285949,4,60
+101,Washington County Hospital,Critical Access Hospital,Washington,Alabama,1,129,1129,25,15,3,3,0,0.43178082,1,10
+102,J Paul Jones Hospital,Short Term Acute Care Hospital,Wilcox,Alabama,1,131,1131,30,21,4,4,0,0.065753423,0,9
+103,Lakeland Community Hospital,Short Term Acute Care Hospital,Winston,Alabama,1,133,1133,49,49,4,4,0,0.29197651,2,0
+104,Providence Alaska Medical Center,Short Term Acute Care Hospital,Anchorage,Alaska,2,20,2020,401,391,46,46,66,0.71726364,11,10
+105,Alaska Regional Hospital,Short Term Acute Care Hospital,Anchorage,Alaska,2,20,2020,250,168,14,14,10,0.71379077,4,82
+106,Alaska Native Medical Center,Short Term Acute Care Hospital,Anchorage,Alaska,2,20,2020,150,174,30,30,0,0.65020746,4,-24
+107,Yukon-Kuskokwim Delta Regional Hospital,Short Term Acute Care Hospital,Bethel,Alaska,2,50,2050,50,34,6,6,0,0.38920227,1,16
+108,Maine VA Medical Center (AKA Togus VA Medical Center),VA Hospital,Kennebec,Maine,23,11,23011,67,67,2,2,0,0.0,2,0
+109,Fairbanks Memorial Hospital,Short Term Acute Care Hospital,Fairbanks North Star,Alaska,2,90,2090,152,122,13,13,0,0.35250393,2,30
+110,Bartlett Regional Hospital,Short Term Acute Care Hospital,Juneau,Alaska,2,110,2110,73,45,9,9,0,0.36596653,2,28
+111,Central Peninsula Hospital,Short Term Acute Care Hospital,Kenai Peninsula,Alaska,2,122,2122,49,49,6,6,0,0.63282079,2,0
+112,Providence Seward Medical & Care Center,Critical Access Hospital,Kenai Peninsula,Alaska,2,122,2122,6,6,1,1,0,0.15342465,0,0
+113,South Peninsula Hospital,Critical Access Hospital,Kenai Peninsula,Alaska,2,122,2122,22,21,4,4,0,0.37521201,1,1
+114,PeaceHealth Ketchikan Medical Center,Critical Access Hospital,Ketchikan Gateway,Alaska,2,130,2130,25,25,4,4,0,0.38246575,2,0
+115,VA Maryland Health Care System - Baltimore VA Medical Center,VA Hospital,Baltimore City,Maryland,24,510,24510,131,131,2,2,0,0.0,2,0
+116,Providence Kodiak Island Medical Center,Critical Access Hospital,Kodiak Island,Alaska,2,150,2150,25,24,4,4,0,0.20947489,2,1
+117,Mat-Su Regional Medical Center,Short Term Acute Care Hospital,Matanuska-Susitna,Alaska,2,170,2170,125,109,14,14,0,0.40972728,3,16
+118,Norton Sound Regional Hospital,Critical Access Hospital,Nome,Alaska,2,180,2180,18,18,3,3,0,0.40167427,1,0
+119,Mt Edgecumbe Hospital,Critical Access Hospital,Sitka,Alaska,2,220,2220,25,27,4,4,0,0.33860984,1,-2
+120,Wrangell Medical Center,Critical Access Hospital,Wrangell,Alaska,2,275,2275,8,8,1,1,0,0.2875683,0,0
+121,VA Central Western Massachusetts Healthcare System - Northampton VA Medical Center (AKA Edward P Boland Department of Veterans Affairs Medical Center),VA Hospital,Hampshire,Massachusetts,25,15,25015,145,145,0,0,0,0.0,0,0
+122,Edith Nourse Rogers Memorial Veterans Hospital,VA Hospital,Middlesex,Massachusetts,25,17,25017,65,65,1,1,0,0.0,1,0
+123,Fort Defiance Indian Hospital,Short Term Acute Care Hospital,Apache,Arizona,4,1,4001,56,56,10,10,0,0.4590998,1,0
+124,Chinle Comprehensive Health Care Facility,Short Term Acute Care Hospital,Apache,Arizona,4,1,4001,60,60,11,11,0,0.22191781,1,0
+125,Sage Memorial Hospital,Critical Access Hospital,Apache,Arizona,4,1,4001,25,25,4,4,0,0.10421918000000001,1,0
+126,White Mountain Regional Medical Center,Critical Access Hospital,Apache,Arizona,4,1,4001,21,21,4,4,0,0.27266797,2,0
+127,Copper Queen Community Hospital,Critical Access Hospital,Cochise,Arizona,4,3,4003,14,14,2,2,0,0.33508977,2,0
+128,Benson Hospital,Critical Access Hospital,Cochise,Arizona,4,3,4003,22,22,4,4,0,0.18281445000000002,0,0
+129,Northern Cochise Community Hospital,Critical Access Hospital,Cochise,Arizona,4,3,4003,24,24,4,4,0,0.078551911,0,0
+130,Canyon Vista Medical Center (FKA Sierra Vista Regional Health Center),Short Term Acute Care Hospital,Cochise,Arizona,4,3,4003,100,75,12,12,0,0.46768671,4,25
+131,Flagstaff Medical Center,Short Term Acute Care Hospital,Coconino,Arizona,4,5,4005,264,242,41,41,18,0.54920292,7,22
+132,Page Hospital,Critical Access Hospital,Coconino,Arizona,4,5,4005,25,25,4,4,0,0.09610959100000001,1,0
+133,Tuba City Regional Health Care,Short Term Acute Care Hospital,Coconino,Arizona,4,5,4005,73,73,13,13,0,0.43557891,2,0
+134,San Carlos Apache Healthcare (FKA PHS Indian Hospital - San Carlos),Short Term Acute Care Hospital,Graham,Arizona,4,9,4009,127,8,1,1,0,0.45136985,0,119
+135,Cobre Valley Regional Medical Center,Critical Access Hospital,Gila,Arizona,4,7,4007,25,25,4,4,0,0.65073973,2,0
+136,Banner Payson Medical Center (AKA Payson Regional Medical Center),Critical Access Hospital,Gila,Arizona,4,7,4007,25,25,4,4,0,0.44263014,2,0
+137,Mt Graham Regional Medical Center,Short Term Acute Care Hospital,Graham,Arizona,4,9,4009,49,49,9,9,0,0.171149,2,0
+138,La Paz Regional Hospital,Critical Access Hospital,La Paz,Arizona,4,12,4012,25,25,3,3,0,0.35605478,2,0
+139,Banner Desert Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,595,615,51,51,86,0.7417931,20,-20
+140,Banner Boswell Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,434,410,85,85,0,0.5669100300000001,9,24
+141,St Josephs Hospital and Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,586,501,32,32,72,0.80072182,29,85
+142,Abrazo Central Campus (FKA Phoenix Baptist Hospital),Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,206,140,28,28,0,0.60882121,6,66
+143,Chandler Regional Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,338,96,49,49,12,0.78661072,19,242
+144,HonorHealth Scottsdale Osborn Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,341,337,59,59,0,0.51435924,8,4
+145,Valleywise Health Medical Center (FKA Maricopa Medical Center),Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,758,323,52,52,60,0.51196086,10,435
+146,HonorHealth John C Lincoln Medical Center (FKA John C Lincoln North Mountain Hospital),Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,262,262,20,20,0,0.57754886,8,0
+147,Valleywise Behavioral Health Center - Maryvale (FKA MIHS Maryvale Hospital),Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,228,228,16,16,0,0.18209064,3,0
+148,Banner - University Medical Center Phoenix (FKA Banner Good Samaritan Medical Center),Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,766,656,46,46,0,0.78406662,26,110
+149,Phoenix Indian Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,115,115,23,23,0,0.15332936,2,0
+150,Abrazo Scottsdale Campus (FKA Paradise Valley Hospital),Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,136,120,14,14,0,0.43527398,4,16
+151,HonorHealth Scottsdale Shea Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,427,427,25,25,24,0.62469125,6,0
+152,Banner Baywood Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,359,318,26,26,0,0.57843542,10,41
+153,Banner Thunderbird Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,555,499,40,40,0,0.58860189,13,56
+154,HonorHealth Deer Valley Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,204,204,36,36,0,0.75784975,7,0
+155,Banner Del E Webb Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,394,314,34,34,0,0.57043886,7,80
+156,Abrazo Arrowhead Campus (FKA Arrowhead Hospital),Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,217,217,38,38,0,0.62552661,9,0
+157,Mayo Clinic Hospital - Arizona,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,292,264,30,30,0,0.82464713,13,28
+158,Banner Heart Hospital,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,111,111,19,19,0,0.53202516,4,0
+159,Arizona Spine & Joint Hospital,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,23,23,4,4,0,0.22942227,0,0
+160,CORE Institute Specialty Hospital (FKA the Surgical Hospital of Phoenix),Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,32,32,6,6,0,0.21849315,2,0
+161,Abrazo West Campus (FKA West Valley Hospital),Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,200,191,20,20,0,0.72587472,9,9
+162,Wickenburg Community Hospital,Critical Access Hospital,Maricopa,Arizona,4,13,4013,19,19,3,3,0,0.17534247,2,0
+163,Dignity Health Arizona Specialty Hospital (FKA Arizona Orthopedic Surgical Hospital),Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,24,24,4,4,0,0.21518265,0,0
+164,Banner Estrella Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,317,317,24,24,0,0.63880557,6,0
+165,Mercy Gilbert Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,197,198,24,24,0,0.71210736,8,-1
+166,Mountain Vista Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,178,141,30,30,0,0.50377613,5,37
+167,Banner Gateway Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,177,165,24,24,0,0.84773767,3,12
+168,HonorHealth Scottsdale Thompson Peak Medical Center,Short Term Acute Care Hospital,Maricopa,Arizona,4,13,4013,120,120,8,8,0,0.54415524,3,0
+169,Phoenix Childrens Hospital,Childrens Hospital,Maricopa,Arizona,4,13,4013,435,457,81,81,81,0.5402208,6,-22
+170,Valley View Medical Center,Short Term Acute Care Hospital,Mohave,Arizona,4,15,4015,84,72,12,12,0,0.2554414,3,12
+171,Western Arizona Regional Medical Center,Short Term Acute Care Hospital,Mohave,Arizona,4,15,4015,139,139,32,32,0,0.40987483,7,0
+172,Havasu Regional Medical Center,Short Term Acute Care Hospital,Mohave,Arizona,4,15,4015,152,144,16,16,0,0.46348935,5,8
+173,Kingman Regional Medical Center,Short Term Acute Care Hospital,Mohave,Arizona,4,15,4015,235,196,20,20,0,0.47457343,5,39
+174,Summit Healthcare Regional Medical Center,Short Term Acute Care Hospital,Navajo,Arizona,4,17,4017,101,89,12,12,0,0.40815762,3,12
+175,Hopi Health Care Center,Critical Access Hospital,Navajo,Arizona,4,17,4017,6,6,1,1,0,0.23835616,0,0
+176,Whiteriver Indian Hospital,Short Term Acute Care Hospital,Navajo,Arizona,4,17,4017,40,40,7,7,0,0.24842466,0,0
+177,Little Colorado Medical Center,Critical Access Hospital,Navajo,Arizona,4,17,4017,25,25,4,4,0,0.32438356,2,0
+178,Oro Valley Hospital,Short Term Acute Care Hospital,Pima,Arizona,4,19,4019,146,111,36,36,0,0.41184747,2,35
+179,Sells Indian Hospital,Short Term Acute Care Hospital,Pima,Arizona,4,19,4019,14,14,2,2,0,0.15870841,1,0
+180,Northwest Medical Center,Short Term Acute Care Hospital,Pima,Arizona,4,19,4019,300,281,35,35,15,0.52079171,6,19
+181,Banner - University Medical Center South (FKA University of Arizona Medical Center - South Campus),Short Term Acute Care Hospital,Pima,Arizona,4,19,4019,245,144,12,12,0,0.72784221,4,101
+182,Banner - University Medical Center Tucson (FKA University of Arizona Medical Center),Short Term Acute Care Hospital,Pima,Arizona,4,19,4019,625,625,90,90,60,0.6966867999999999,18,0
+183,Tucson Medical Center (AKA TMC HealthCare),Short Term Acute Care Hospital,Pima,Arizona,4,19,4019,596,441,36,36,54,0.86572856,10,155
+184,St Marys Hospital,Short Term Acute Care Hospital,Pima,Arizona,4,19,4019,400,349,49,49,0,0.3515563,4,51
+185,St Joseph Hospital,Short Term Acute Care Hospital,Pima,Arizona,4,19,4019,486,451,32,32,30,0.34136623,6,35
+186,Banner Casa Grande Medical Center,Short Term Acute Care Hospital,Pinal,Arizona,4,21,4021,141,141,22,22,0,0.45432818,4,0
+187,Holy Cross Hospital,Critical Access Hospital,Santa Cruz,Arizona,4,23,4023,25,25,4,4,0,0.2758356,2,0
+188,Northern Arizona VA Health Care System,VA Hospital,Yavapai,Arizona,4,25,4025,15,15,0,0,0,0.0,0,0
+189,Yavapai Regional Medical Center - West,Short Term Acute Care Hospital,Yavapai,Arizona,4,25,4025,206,134,26,26,0,0.55399656,7,72
+190,Verde Valley Medical Center,Short Term Acute Care Hospital,Yavapai,Arizona,4,25,4025,98,87,13,13,0,0.51465911,3,11
+191,Yuma Regional Medical Center,Short Term Acute Care Hospital,Yuma,Arizona,4,27,4027,406,406,42,42,20,0.4097375,7,0
+192,Baptist Health - Stuttgart,Short Term Acute Care Hospital,Arkansas,Arkansas,5,1,5001,49,49,9,9,0,0.18367347,2,0
+193,DeWitt Hospital & Nursing Home,Critical Access Hospital,Arkansas,Arkansas,5,1,5001,25,25,4,4,0,0.08207650500000001,1,0
+194,Ashley County Medical Center,Critical Access Hospital,Ashley,Arkansas,5,3,5003,33,25,6,6,0,0.35071039,2,8
+195,Baxter Regional Medical Center,Short Term Acute Care Hospital,Baxter,Arkansas,5,5,5005,268,169,17,17,0,0.53123128,4,99
+196,Siloam Springs Regional Hospital,Short Term Acute Care Hospital,Benton,Arkansas,5,7,5007,73,44,6,6,0,0.25260806,2,29
+197,Mercy Hospital Northwest Arkansas (FKA Mercy Medical Center),Short Term Acute Care Hospital,Benton,Arkansas,5,7,5007,208,275,24,24,8,0.41262791,4,-67
+198,Ozarks Community Hospital of Gravette (AKA Ozarks Community Health System),Critical Access Hospital,Benton,Arkansas,5,7,5007,25,25,4,4,0,0.74947947,1,0
+199,North Arkansas Regional Medical Center,Short Term Acute Care Hospital,Boone,Arkansas,5,9,5009,174,120,24,24,0,0.1790756,3,54
+200,Bradley County Medical Center,Critical Access Hospital,Bradley,Arkansas,5,11,5011,33,25,4,4,0,0.2269589,2,8
+201,Mercy Hospital Berryville (FKA St Johns Hospital Berryville),Critical Access Hospital,Carroll,Arkansas,5,15,5015,25,25,5,5,0,0.11901639,2,0
+202,Chicot Memorial Medical Center,Critical Access Hospital,Chicot,Arkansas,5,17,5017,25,25,4,4,0,0.34918034000000003,2,0
+203,Baptist Health - Arkadelphia,Critical Access Hospital,Clark,Arkansas,5,19,5019,25,25,4,4,0,0.43167123,2,0
+204,Piggott Community Hospital,Critical Access Hospital,Clay,Arkansas,5,21,5021,25,25,4,4,0,0.52295887,1,0
+205,Baptist Health - Heber Springs,Critical Access Hospital,Cleburne,Arkansas,5,23,5023,25,25,4,4,0,0.29468492,1,0
+206,Magnolia Regional Medical Center,Short Term Acute Care Hospital,Columbia,Arkansas,5,27,5027,49,30,6,6,0,0.26273972,2,19
+207,Providence VA Medical Center,VA Hospital,Providence,Rhode Island,44,7,44007,73,73,2,2,0,0.0,2,0
+208,CHI St Vincent Morrilton,Critical Access Hospital,Conway,Arkansas,5,29,5029,25,25,4,4,0,0.27912569,2,0
+209,NEA Baptist Memorial Hospital,Short Term Acute Care Hospital,Craighead,Arkansas,5,31,5031,228,100,36,36,0,0.72596651,4,128
+210,St Bernards Medical Center,Short Term Acute Care Hospital,Craighead,Arkansas,5,31,5031,378,337,30,30,12,0.66164941,11,41
+211,Baptist Health - Van Buren (FKA Sparks Medical Center - Van Buren),Short Term Acute Care Hospital,Crawford,Arkansas,5,33,5033,103,44,8,8,0,0.14327522,2,59
+212,CrossRidge Community Hospital,Critical Access Hospital,Cross,Arkansas,5,37,5037,25,15,3,3,0,0.56529683,2,10
+213,Dallas County Medical Center,Critical Access Hospital,Dallas,Arkansas,5,39,5039,25,22,4,4,0,0.087920301,0,3
+214,McGehee Hospital (AKA McGehee-Desha County Hospital),Critical Access Hospital,Desha,Arkansas,5,41,5041,25,25,4,4,0,0.09967213100000001,1,0
+215,Delta Memorial Hospital,Critical Access Hospital,Desha,Arkansas,5,41,5041,25,25,4,4,0,0.25726777,1,0
+216,Drew Memorial Health System (FKA Drew Memorial Hospital),Short Term Acute Care Hospital,Drew,Arkansas,5,43,5043,49,50,5,5,0,0.44879782,2,-1
+217,Conway Regional Medical Center,Short Term Acute Care Hospital,Faulkner,Arkansas,5,45,5045,150,139,17,17,0,0.6153543,4,11
+218,Mercy Hospital Ozark,Critical Access Hospital,Franklin,Arkansas,5,47,5047,25,25,4,4,0,0.11573771000000001,1,0
+219,Levi Hospital (AKA Leo N Levi National Arthritis Hospital),Short Term Acute Care Hospital,Garland,Arkansas,5,51,5051,50,1,0,0,0,0.0027397261,0,49
+220,National Park Medical Center,Short Term Acute Care Hospital,Garland,Arkansas,5,51,5051,163,126,16,16,0,0.65940422,5,37
+221,CHI St Vincent Hot Springs (FKA Mercy Hospital Hot Springs),Short Term Acute Care Hospital,Garland,Arkansas,5,51,5051,282,229,25,25,0,0.54960984,7,53
+222,Arkansas Methodist Medical Center,Short Term Acute Care Hospital,Greene,Arkansas,5,55,5055,129,114,8,8,0,0.28514779,3,15
+223,Wadley Regional Medical Center at Hope (FKA Medical Park Hospital),Short Term Acute Care Hospital,Hempstead,Arkansas,5,57,5057,79,67,8,8,0,0.09249642500000001,2,12
+224,Baptist Health - Hot Spring County (FKA Hot Spring County Medical Center),Short Term Acute Care Hospital,Hot Spring,Arkansas,5,59,5059,72,65,6,6,0,0.37808219,2,7
+225,Ralph H Johnson VA Medical Center,VA Hospital,Charleston,South Carolina,45,19,45019,132,132,0,0,0,0.0,0,0
+226,Howard Memorial Hospital,Critical Access Hospital,Howard,Arkansas,5,61,5061,20,20,6,6,0,0.2920548,2,0
+227,White River Medical Center,Short Term Acute Care Hospital,Independence,Arkansas,5,63,5063,235,170,12,12,0,0.47740531,4,65
+228,Jefferson Regional Medical Center,Short Term Acute Care Hospital,Jefferson,Arkansas,5,69,5069,471,271,34,34,0,0.41703466,7,200
+229,Johnson Regional Medical Center,Short Term Acute Care Hospital,Johnson,Arkansas,5,71,5071,90,58,8,8,0,0.21270666,2,32
+230,Lawrence Memorial Hospital,Critical Access Hospital,Lawrence,Arkansas,5,75,5075,25,25,4,4,0,0.22163935,2,0
+231,Mercy Hospital Paris (FKA North Logan Mercy Hospital),Critical Access Hospital,Logan,Arkansas,5,83,5083,16,16,3,3,0,0.22967896000000002,2,0
+232,Mercy Hospital Booneville (FKA Booneville Community Hospital),Critical Access Hospital,Logan,Arkansas,5,83,5083,25,24,4,4,0,0.23041895,1,1
+233,South Mississippi County Regional Medical Center,Critical Access Hospital,Mississippi,Arkansas,5,93,5093,25,25,4,4,0,0.15813699,1,0
+234,Great River Medical Center,Short Term Acute Care Hospital,Mississippi,Arkansas,5,93,5093,99,99,5,5,0,0.31772521,2,0
+235,Ouachita County Medical Center,Short Term Acute Care Hospital,Ouachita,Arkansas,5,103,5103,98,87,8,8,0,0.14857502,2,11
+236,Helena Regional Medical Center,Short Term Acute Care Hospital,Phillips,Arkansas,5,107,5107,155,127,6,6,0,0.066379033,2,28
+237,Mena Regional Health System,Short Term Acute Care Hospital,Polk,Arkansas,5,113,5113,65,41,6,6,0,0.25706649,2,24
+238,St Marys Regional Medical Center (AKA Saint Marys Regional Health System),Short Term Acute Care Hospital,Pope,Arkansas,5,115,5115,170,137,11,11,0,0.40777922,4,33
+239,Baptist Health - North Little Rock,Short Term Acute Care Hospital,Pulaski,Arkansas,5,119,5119,225,182,17,17,0,0.6172964,5,43
+240,University of Arkansas for Medical Sciences Medical Center (AKA UAMS),Short Term Acute Care Hospital,Pulaski,Arkansas,5,119,5119,450,450,28,28,64,0.76293153,14,0
+241,CHI St Vincent Infirmary,Short Term Acute Care Hospital,Pulaski,Arkansas,5,119,5119,615,371,23,23,0,0.64283502,12,244
+242,Central Arkansas Veterans Healthcare System - John L McClellan Memorial Veterans Hospital,VA Hospital,Pulaski,Arkansas,5,119,5119,538,195,2,2,0,0.0,2,343
+243,Baptist Health - Little Rock,Short Term Acute Care Hospital,Pulaski,Arkansas,5,119,5119,827,764,54,54,0,0.55962849,15,63
+244,Arkansas Surgical Hospital,Short Term Acute Care Hospital,Pulaski,Arkansas,5,119,5119,49,49,9,9,0,0.38758737,2,0
+245,Arkansas Heart Hospital,Short Term Acute Care Hospital,Pulaski,Arkansas,5,119,5119,110,112,20,20,0,0.63172698,2,-2
+246,CHI St Vincent North,Short Term Acute Care Hospital,Pulaski,Arkansas,5,119,5119,69,68,14,14,0,0.58992285,3,1
+247,Arkansas Childrens Hospital,Childrens Hospital,Pulaski,Arkansas,5,119,5119,336,336,36,36,104,0.66382909,2,0
+248,St Bernards Five Rivers (FKA Five Rivers Medical Center),Short Term Acute Care Hospital,Randolph,Arkansas,5,121,5121,50,32,2,2,0,0.17696886,1,18
+249,Forrest City Medical Center,Short Term Acute Care Hospital,St. Francis,Arkansas,5,123,5123,118,56,6,6,0,0.28277886,2,62
+250,Saline Memorial Hospital,Short Term Acute Care Hospital,Saline,Arkansas,5,125,5125,177,130,16,16,0,0.32175285,3,47
+251,Mercy Hospital Waldron (FKA Mercy Hospital Scott County),Critical Access Hospital,Scott,Arkansas,5,127,5127,24,24,4,4,0,0.11839709,1,0
+252,Baptist Health - Fort Smith (FKA Sparks Regional Medical Center),Short Term Acute Care Hospital,Sebastian,Arkansas,5,131,5131,492,280,31,31,0,0.55406064,12,212
+253,Mercy Hospital Fort Smith (FKA St Edward Mercy Medical Center),Short Term Acute Care Hospital,Sebastian,Arkansas,5,131,5131,336,343,38,38,25,0.5216182500000001,9,-7
+254,Stone County Medical Center,Critical Access Hospital,Stone,Arkansas,5,137,5137,25,25,4,4,0,0.20767124,1,0
+255,Medical Center of South Arkansas,Short Term Acute Care Hospital,Union,Arkansas,5,139,5139,166,111,16,16,0,0.29079899,3,55
+256,Ozark Health Medical Center,Critical Access Hospital,Van Buren,Arkansas,5,141,5141,25,25,4,4,0,0.43825138,2,0
+257,Veterans Health Care System of the Ozarks (AKA Fayetteville VA Medical Center),VA Hospital,Washington,Arkansas,5,143,5143,78,78,0,0,0,0.0,0,0
+258,Northwest Health Physicians Specialty Hospital,Short Term Acute Care Hospital,Washington,Arkansas,5,143,5143,20,20,4,4,0,0.34931508,0,0
+259,Northwest Medical Center - Springdale,Short Term Acute Care Hospital,Washington,Arkansas,5,143,5143,222,222,21,21,0,0.50158286,5,0
+260,Washington Regional Medical Center,Short Term Acute Care Hospital,Washington,Arkansas,5,143,5143,425,355,40,40,34,0.53689879,10,70
+261,Unity Health - White County Medical Center,Short Term Acute Care Hospital,White,Arkansas,5,145,5145,438,245,13,13,0,0.58266109,8,193
+262,John Ed Chambers Memorial Hospital,Short Term Acute Care Hospital,Yell,Arkansas,5,149,5149,41,30,5,5,0,0.4647541,2,11
+263,Dardanelle Regional Medical Center (FKA River Valley Medical Center),Critical Access Hospital,Yell,Arkansas,5,149,5149,35,25,4,4,0,0.16262627000000002,1,10
+264,St Rose Hospital,Short Term Acute Care Hospital,Alameda,California,6,1,6001,171,195,15,15,0,0.28039339,8,-24
+265,Alta Bates Summit Medical Center - Summit Campus,Short Term Acute Care Hospital,Alameda,California,6,1,6001,58,403,36,36,0,0.34196752,11,-345
+266,San Leandro Hospital,Short Term Acute Care Hospital,Alameda,California,6,1,6001,91,48,6,6,0,0.64257991,3,43
+267,Washington Hospital,Short Term Acute Care Hospital,Alameda,California,6,1,6001,415,365,52,52,0,0.3902809,6,50
+268,Alameda Hospital,Short Term Acute Care Hospital,Alameda,California,6,1,6001,66,37,8,8,0,0.95120329,3,29
+269,Stanford Health Care - ValleyCare Medical Center,Short Term Acute Care Hospital,Alameda,California,6,1,6001,167,167,23,23,0,0.41284555,5,0
+270,Alta Bates Summit Medical Center - Alta Bates Campus,Short Term Acute Care Hospital,Alameda,California,6,1,6001,339,339,30,30,55,0.41773999,5,0
+271,Kaiser Permanente - Oakland Medical Center,Short Term Acute Care Hospital,Alameda,California,6,1,6001,315,365,50,50,24,0.66315633,7,-50
+272,Eden Medical Center,Short Term Acute Care Hospital,Alameda,California,6,1,6001,130,126,24,24,0,0.88556206,10,4
+273,Sutter Amador Hospital,Short Term Acute Care Hospital,Amador,California,6,5,6005,52,52,6,6,0,0.43609062,3,0
+274,Enloe Medical Center,Short Term Acute Care Hospital,Butte,California,6,7,6007,298,298,33,33,6,0.7273933300000001,7,0
+275,Oroville Hospital,Short Term Acute Care Hospital,Butte,California,6,7,6007,133,153,10,10,0,0.8576347200000001,10,-20
+276,Mark Twain Medical Center,Critical Access Hospital,Calaveras,California,6,9,6009,25,25,5,5,0,0.34421918,2,0
+277,Colusa Regional Medical Center,Short Term Acute Care Hospital,Colusa,California,6,11,6011,42,42,0,0,0,0.16268754,0,0
+278,John Muir Health - Concord Medical Center,Short Term Acute Care Hospital,Contra Costa,California,6,13,6013,244,244,36,36,0,0.61752748,10,0
+279,Sutter Delta Medical Center,Short Term Acute Care Hospital,Contra Costa,California,6,13,6013,145,145,12,12,4,0.56444025,8,0
+280,San Ramon Regional Medical Center,Short Term Acute Care Hospital,Contra Costa,California,6,13,6013,123,123,12,12,2,0.35008219,3,0
+281,Kaiser Permanente - Antioch Medical Center,Short Term Acute Care Hospital,Contra Costa,California,6,13,6013,150,138,16,16,0,0.39781615000000004,2,12
+282,Contra Costa Regional Medical Center,Short Term Acute Care Hospital,Contra Costa,California,6,13,6013,124,124,8,8,6,0.86705703,3,0
+283,Kaiser Permanente - Walnut Creek Medical Center,Short Term Acute Care Hospital,Contra Costa,California,6,13,6013,233,233,24,24,25,0.53250635,2,0
+284,John Muir Health - Walnut Creek Medical Center,Short Term Acute Care Hospital,Contra Costa,California,6,13,6013,554,506,55,55,60,0.46712869,16,48
+285,Sutter Coast Hospital,Short Term Acute Care Hospital,Del Norte,California,6,15,6015,49,39,6,6,0,0.49624166000000003,3,10
+286,Marshall Medical Center,Short Term Acute Care Hospital,El Dorado,California,6,17,6017,111,111,20,20,0,0.47883499,4,0
+287,Barton Memorial Hospital (AKA Barton Health),Short Term Acute Care Hospital,El Dorado,California,6,17,6017,63,63,8,8,0,0.270798,2,0
+288,Adventist Health Reedley,Short Term Acute Care Hospital,Fresno,California,6,19,6019,49,49,9,9,0,0.2214146,2,0
+289,Community Regional Medical Center,Short Term Acute Care Hospital,Fresno,California,6,19,6019,685,663,88,88,84,0.75807005,23,22
+290,Saint Agnes Medical Center,Short Term Acute Care Hospital,Fresno,California,6,19,6019,436,385,40,40,0,0.7931827300000001,12,51
+291,Clovis Community Medical Center,Short Term Acute Care Hospital,Fresno,California,6,19,6019,208,208,24,24,8,0.85026342,8,0
+292,Fresno Surgical Hospital,Short Term Acute Care Hospital,Fresno,California,6,19,6019,27,27,5,5,0,0.30421105,1,0
+293,Kaiser Permanente - Fresno Medical Center,Short Term Acute Care Hospital,Fresno,California,6,19,6019,169,169,12,12,12,0.47815514000000003,2,0
+294,Fresno Heart & Surgical Hospital,Short Term Acute Care Hospital,Fresno,California,6,19,6019,57,57,10,10,0,0.54568613,0,0
+295,Glenn Medical Center,Critical Access Hospital,Glenn,California,6,21,6021,47,15,3,3,0,1.0,1,32
+296,Jerold Phelps Community Hospital,Critical Access Hospital,Humboldt,California,6,23,6023,9,9,2,2,0,0.34946728,0,0
+297,Redwood Memorial Hospital,Critical Access Hospital,Humboldt,California,6,23,6023,35,25,5,5,0,0.42939889000000003,2,10
+298,Mad River Community Hospital,Short Term Acute Care Hospital,Humboldt,California,6,23,6023,78,49,8,8,0,0.37777531000000003,2,29
+299,St Joseph Hospital - Eureka,Short Term Acute Care Hospital,Humboldt,California,6,23,6023,138,127,12,12,5,0.72245169,8,11
+300,Martinsburg VA Medical Center,VA Hospital,Berkeley,West Virginia,54,3,54003,67,67,1,1,0,0.0,2,0
+301,El Centro Regional Medical Center,Short Term Acute Care Hospital,Imperial,California,6,25,6025,161,161,20,20,0,0.37910262,4,0
+302,Pioneers Memorial Hospital (AKA Pioneers Memorial Healthcare District),Short Term Acute Care Hospital,Imperial,California,6,25,6025,107,107,8,8,0,0.41004035,5,0
+303,Southern Inyo Hospital (AKA Southern Inyo Healthcare District),Critical Access Hospital,Inyo,California,6,27,6027,4,4,1,1,0,0.13150685,0,0
+304,Northern Inyo Hospital,Critical Access Hospital,Inyo,California,6,27,6027,25,25,4,4,0,0.35342467,2,0
+305,Kern Valley Healthcare District,Critical Access Hospital,Kern,California,6,29,6029,27,24,4,4,0,0.19303653,2,3
+306,Adventist Health Tehachapi Valley (FKA Tehachapi Hospital),Critical Access Hospital,Kern,California,6,29,6029,25,25,4,4,0,0.46311638,2,0
+307,Kern Medical (FKA Kern Medical Center),Short Term Acute Care Hospital,Kern,California,6,29,6029,222,222,12,12,28,0.58510429,3,0
+308,Mercy Hospital Downtown - Bakersfield,Short Term Acute Care Hospital,Kern,California,6,29,6029,144,144,28,28,9,0.48699236,4,0
+309,Good Samaritan Hospital,Short Term Acute Care Hospital,Kern,California,6,29,6029,64,43,4,4,0,0.30238929000000003,1,21
+310,Delano Regional Medical Center (AKA Adventist Health Delano),Short Term Acute Care Hospital,Kern,California,6,29,6029,105,105,10,10,0,0.20234834000000002,2,0
+311,Bakersfield Heart Hospital,Short Term Acute Care Hospital,Kern,California,6,29,6029,47,47,11,11,0,0.73786068,4,0
+312,Ridgecrest Regional Hospital,Critical Access Hospital,Kern,California,6,29,6029,72,25,4,4,0,0.57128769,2,47
+313,Adventist Health Bakersfield (FKA San Joaquin Community Hospital),Short Term Acute Care Hospital,Kern,California,6,29,6029,254,254,34,34,9,0.64435339,5,0
+314,Memorial Hospital - Bakersfield (FKA Bakersfield Memorial Hospital),Short Term Acute Care Hospital,Kern,California,6,29,6029,408,421,48,48,31,0.43651449999999997,7,-13
+315,Adventist Health Hanford,Short Term Acute Care Hospital,Kings,California,6,31,6031,173,142,22,22,0,0.51438951,5,31
+316,Adventist Health Clear Lake (FKA St Helena Hospital - Clear Lake),Critical Access Hospital,Lake,California,6,33,6033,32,25,4,4,0,0.6229041200000001,3,7
+317,Sutter Lakeside Hospital,Critical Access Hospital,Lake,California,6,33,6033,30,25,4,4,0,0.7438904,2,5
+318,Banner Lassen Medical Center,Critical Access Hospital,Lassen,California,6,35,6035,25,25,4,4,0,0.36372602,1,0
+319,Catalina Island Medical Center,Critical Access Hospital,Los Angeles,California,6,37,6037,8,8,1,1,0,0.47636986000000003,0,0
+320,Childrens Hospital Los Angeles,Childrens Hospital,Los Angeles,California,6,37,6037,495,379,48,48,58,0.87363499,2,116
+321,Miller Childrens & Womens Hospital Long Beach,Childrens Hospital,Los Angeles,California,6,37,6037,357,357,30,30,95,0.44957983,7,0
+322,USC Verdugo Hills Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,116,116,12,12,7,0.44924158000000003,3,0
+323,Valley Presbyterian Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,350,333,20,20,42,0.53769386,8,17
+324,San Gabriel Valley Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,187,187,19,19,12,0.54568899,6,0
+325,Panorama City Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,218,218,24,24,24,0.35885385000000003,3,0
+326,Los Angeles Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,460,460,96,96,33,0.71137583,3,0
+327,Downey Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,352,352,38,38,49,0.49100249999999995,4,0
+328,St Mary Medical Center Long Beach,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,360,250,30,30,25,0.5796593999999999,6,110
+329,PIH Health Hospital - Whittier (FKA Presbyterian Intercommunity Hospital),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,488,352,24,24,34,0.5733344,9,136
+330,City of Hope Helford Clinical Research Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,217,217,18,18,0,0.9287166,3,0
+331,California Hospital Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,318,318,28,28,26,0.61069185,5,0
+332,Southern California Hospital at Hollywood (FKA Hollywood Community Hospital),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,100,100,15,15,0,0.52213591,6,0
+333,Encino Hospital Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,107,82,14,14,0,0.2100568,2,25
+334,Community Hospital of Huntington Park,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,81,81,4,4,0,0.49271098,3,0
+335,West Covina Medical Center (AKA Doctors Hospital of West Covina),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,13,13,2,2,0,0.38292938,1,0
+336,Adventist Health White Memorial (FKA White Memorial Medical Center),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,353,353,34,34,5,0.70875311,5,0
+337,St Francis Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,384,384,36,36,29,0.73595893,8,0
+338,UCLA Health - Santa Monica Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,281,281,38,38,0,0.67798454,8,0
+339,Northridge Hospital Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,354,318,46,46,38,0.45378089,10,36
+340,CHA Hollywood Presbyterian Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,345,317,36,36,15,0.42576379000000003,11,28
+341,Glendale Memorial Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,255,241,24,24,13,0.37412971,5,14
+342,Providence Little Company of Mary Medical Center San Pedro,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,158,186,12,12,0,0.32184416,4,-28
+343,Coast Plaza Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,117,117,7,7,0,0.24165788,3,0
+344,Palmdale Regional Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,184,157,18,18,0,0.5933339,6,27
+345,Glendora Oaks Behavioral Health Hospital (FKA Glendora Community Hospital),Psychiatric Hospital,Los Angeles,California,6,37,6037,107,107,10,10,0,0.11237998,2,0
+346,Pomona Valley Hospital Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,412,412,40,40,53,0.60010999,11,0
+347,Providence Saint Joseph Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,392,377,38,38,20,0.49137023,13,15
+348,Methodist Hospital of Southern California,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,348,318,49,49,17,0.58730936,12,30
+349,Adventist Health Glendale (FKA Glendale Adventist Medical Center),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,415,323,12,12,14,0.64956552,8,92
+350,College Medical Center (FKA Pacific Hospital of Long Beach),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,121,221,8,8,0,0.81746733,4,-100
+351,Providence Holy Cross Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,329,316,24,24,12,0.67620081,11,13
+352,Providence Saint Johns Health Center (FKA St Johns Health Center),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,266,236,23,23,18,0.60763872,8,30
+353,VA Long Beach Healthcare System (AKA Tibor Rubin VA Medical Center),VA Hospital,Los Angeles,California,6,37,6037,237,237,1,1,0,0.0,1,0
+354,Ronald Reagan UCLA Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,445,445,120,120,22,0.97097915,13,0
+355,Alhambra Hospital Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,118,101,13,13,0,0.54417467,4,17
+356,Providence Little Company of Mary Medical Center Torrance,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,327,327,28,28,34,0.55695194,10,0
+357,Beverly Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,202,202,25,25,10,0.54649395,6,0
+358,Torrance Memorial Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,570,493,56,56,25,0.54675037,11,77
+359,Pacifica Hospital of the Valley,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,95,133,23,23,0,0.39040065,2,-38
+360,Emanate Health Inter-Community Hospital (FKA Inter-Community Hospital),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,481,481,20,20,40,0.54523396,10,0
+361,PIH Health Hospital - Downey (FKA Downey Regional Medical Center and Downey Medical Group),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,199,199,18,18,7,0.42658499,3,0
+362,Huntington Hospital (FKA Huntington Memorial Hospital),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,578,511,30,30,59,0.6274637,18,67
+363,South Bay Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,257,257,20,20,10,0.39271894,3,0
+364,Memorial Hospital of Gardena,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,103,103,10,10,0,0.64734674,6,0
+365,PIH Health Good Samaritan Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,380,310,39,39,23,0.5785771,7,70
+366,West Hills Hospital & Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,260,214,25,25,11,0.5155617,7,46
+367,Long Beach Medical Center (FKA Long Beach Memorial Medical Center),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,411,369,60,60,0,0.61898208,16,42
+368,Los Angeles Community Hospital at Bellflower (FKA Bellflower Medical Center),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,112,144,32,32,0,0.2359589,0,-32
+369,West Los Angeles Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,265,265,31,31,12,0.3249315,3,0
+370,Baldwin Park Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,272,257,12,12,20,0.37800756,5,15
+371,Whittier Hospital Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,156,156,16,16,0,0.41687742,3,0
+372,Monterey Park Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,101,101,4,4,0,0.50069171,2,0
+373,Garfield Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,210,182,10,10,20,0.7207285800000001,5,28
+374,Greater El Monte Community Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,104,104,10,10,0,0.38187566,3,0
+375,Centinela Hospital Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,362,313,31,31,9,0.54039127,15,49
+376,Cedars-Sinai Marina Del Rey Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,133,103,12,12,0,0.42021546,3,30
+377,Olympia Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,204,204,36,36,0,0.33033845,9,0
+378,Providence Tarzana Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,249,246,27,27,18,0.49520689,9,3
+379,LA Downtown Medical Center - Downtown Campus (FKA Silver Lake Medical Center - Downtown Campus),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,234,212,12,12,0,0.63189209,2,22
+380,Sherman Oaks Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,112,112,16,16,0,0.46330723,8,0
+381,VA Greater Los Angeles Healthcare System - West Los Angeles Medical Center,VA Hospital,Los Angeles,California,6,37,6037,0,0,1,1,0,0.0,2,0
+382,Henry Mayo Newhall Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,334,196,18,18,11,0.6314089900000001,5,138
+383,Cedars-Sinai Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,889,880,72,72,57,0.82688123,19,9
+384,Pacific Gardens Medical Center (FKA Gardens Regional Hospital and Medical Center),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,0,0,0,0,0,0.0,0,0
+385,Lakewood Regional Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,172,172,32,32,0,0.65837461,6,0
+386,San Dimas Community Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,101,101,8,8,0,0.34189612,3,0
+387,Emanate Health Foothill Presbyterian Hospital (FKA Foothill Presbyterian Hospital),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,105,105,18,18,0,0.6070711,4,0
+388,East Los Angeles Doctors Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,102,102,10,10,0,0.32234758,2,0
+389,USC Kenneth Norris Jr Cancer Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,60,60,7,7,0,0.67168951,2,0
+390,Los Angeles Community Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,91,285,22,22,0,0.49133381000000004,3,-194
+391,Woodland Hills Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,274,262,22,22,12,0.27019036,2,12
+392,Keck Hospital of USC (FKA USC University Hospital),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,401,301,46,46,0,0.71421289,9,100
+393,Mission Community Hospital,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,85,60,10,10,0,0.8345961,5,25
+394,Olive View - UCLA Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,303,270,18,18,14,0.52208018,2,33
+395,Antelope Valley Hospital (FKA Antelope Valley Hospital Medical Center),Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,390,393,21,21,27,0.55375928,14,-3
+396,Madera Community Hospital,Short Term Acute Care Hospital,Madera,California,6,39,6039,106,106,10,10,0,0.36068752,3,0
+397,Kaiser Permanente - San Rafael Medical Center,Short Term Acute Care Hospital,Marin,California,6,41,6041,116,116,12,12,0,0.35545585,2,0
+398,MarinHealth Medical Center (FKA Marin General Hospital),Short Term Acute Care Hospital,Marin,California,6,41,6041,218,218,10,10,8,0.45249465,6,0
+399,Novato Community Hospital,Short Term Acute Care Hospital,Marin,California,6,41,6041,47,47,8,8,0,0.41154182,2,0
+400,John C Fremont Healthcare District,Critical Access Hospital,Mariposa,California,6,43,6043,18,18,3,3,0,0.70958906,2,0
+401,Adventist Health Howard Memorial (FKA Frank R Howard Memorial Hospital),Critical Access Hospital,Mendocino,California,6,45,6045,25,25,4,4,0,0.81238353,2,0
+402,Adventist Health Mendocino Coast (AKA Mendocino Coast District Hospital),Critical Access Hospital,Mendocino,California,6,45,6045,49,25,4,4,0,0.44797814,2,24
+403,Adventist Health Ukiah Valley (FKA Ukiah Valley Medical Center),Short Term Acute Care Hospital,Mendocino,California,6,45,6045,68,50,6,6,2,0.64328766,2,18
+404,Mercy Medical Center Merced,Short Term Acute Care Hospital,Merced,California,6,47,6047,186,186,20,20,0,0.65464723,10,0
+405,Memorial Hospital Los Banos,Short Term Acute Care Hospital,Merced,California,6,47,6047,40,28,4,4,0,0.35371819,2,12
+406,Surprise Valley Community Hospital,Critical Access Hospital,Modoc,California,6,49,6049,4,4,1,1,0,0.25890409999999997,0,0
+407,Salinas Valley Memorial Hospital,Short Term Acute Care Hospital,Monterey,California,6,53,6053,263,240,13,13,11,0.50233376,4,23
+408,Natividad Medical Center,Short Term Acute Care Hospital,Monterey,California,6,53,6053,150,148,10,10,15,0.5878009200000001,3,2
+409,Community Hospital of the Monterey Peninsula (AKA Montage Health),Short Term Acute Care Hospital,Monterey,California,6,53,6053,240,227,20,20,8,0.65376866,6,13
+410,Mee Memorial Hospital (FKA George L Mee Memorial Hospital),Critical Access Hospital,Monterey,California,6,53,6053,94,94,4,4,0,0.21905316,1,0
+411,Queen of the Valley Medical Center,Short Term Acute Care Hospital,Napa,California,6,55,6055,208,134,36,36,6,0.44912732,6,74
+412,Adventist Health St Helena (FKA St Helena Hospital - Napa Valley),Short Term Acute Care Hospital,Napa,California,6,55,6055,151,138,12,12,0,0.47751552,3,13
+413,Sierra Nevada Memorial Hospital,Short Term Acute Care Hospital,Nevada,California,6,57,6057,104,104,4,4,0,0.49315068,5,0
+414,Tahoe Forest Hospital,Critical Access Hospital,Nevada,California,6,57,6057,33,25,6,6,0,0.57884932,2,8
+415,St Jude Medical Center,Short Term Acute Care Hospital,Orange,California,6,59,6059,320,290,51,51,0,0.53010178,7,30
+416,St Joseph Hospital Orange,Short Term Acute Care Hospital,Orange,California,6,59,6059,426,426,32,32,0,0.45026168,6,0
+417,AHMC Anaheim Regional Medical Center,Short Term Acute Care Hospital,Orange,California,6,59,6059,223,223,32,32,11,0.54734319,5,0
+418,Hoag Hospital Newport Beach,Short Term Acute Care Hospital,Orange,California,6,59,6059,443,443,31,31,21,0.67650962,20,0
+419,Garden Grove Hospital Medical Center,Short Term Acute Care Hospital,Orange,California,6,59,6059,167,167,12,12,12,0.29027972,5,0
+420,UCI Medical Center (FKA UC Irvine Medical Center),Short Term Acute Care Hospital,Orange,California,6,59,6059,402,352,58,58,42,0.7972758400000001,11,50
+421,Huntington Beach Hospital,Short Term Acute Care Hospital,Orange,California,6,59,6059,82,82,12,12,0,0.38085532,4,0
+422,Fountain Valley Regional Hospital & Medical Center,Short Term Acute Care Hospital,Orange,California,6,59,6059,400,400,36,36,23,0.57683563,14,0
+423,Mission Hospital Mission Viejo,Short Term Acute Care Hospital,Orange,California,6,59,6059,523,523,73,73,0,0.36691344000000004,8,0
+424,College Hospital Costa Mesa,Short Term Acute Care Hospital,Orange,California,6,59,6059,122,122,21,21,0,0.94269031,0,0
+425,Los Alamitos Medical Center,Short Term Acute Care Hospital,Orange,California,6,59,6059,162,150,17,17,0,0.68581057,6,12
+426,LAC & USC Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,600,594,148,148,40,0.80121768,8,6
+427,Harbor - UCLA Medical Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,415,390,46,46,27,0.61530733,6,25
+428,West Anaheim Medical Center,Short Term Acute Care Hospital,Orange,California,6,59,6059,167,167,20,20,0,0.40067261,8,0
+429,Orange Coast Medical Center (FKA Orange Coast Memorial Medical Center),Short Term Acute Care Hospital,Orange,California,6,59,6059,222,222,21,21,12,0.5304130300000001,5,0
+430,Placentia-Linda Hospital,Short Term Acute Care Hospital,Orange,California,6,59,6059,114,114,8,8,0,0.26080912,2,0
+431,La Palma Intercommunity Hospital,Short Term Acute Care Hospital,Orange,California,6,59,6059,124,124,8,8,0,0.23499779,4,0
+432,Orange County - Anaheim Medical Center,Short Term Acute Care Hospital,Orange,California,6,59,6059,262,219,60,60,26,0.53357273,3,43
+433,Saddleback Medical Center (FKA Saddleback Memorial Medical Center - Laguna Hills),Short Term Acute Care Hospital,Orange,California,6,59,6059,248,248,22,22,19,0.45394853,6,0
+434,Anaheim Global Medical Center (FKA Western Medical Center Hospital Anaheim),Short Term Acute Care Hospital,Orange,California,6,59,6059,189,189,22,22,0,0.40545285000000003,2,0
+435,Chapman Global Medical Center (FKA Chapman Medical Center),Short Term Acute Care Hospital,Orange,California,6,59,6059,75,75,12,12,0,0.26812786,2,0
+436,Orange County Global Medical Center (FKA Western Medical Center Santa Ana),Short Term Acute Care Hospital,Orange,California,6,59,6059,254,254,49,49,16,0.42960846,5,0
+437,South Coast Global Medical Center (FKA Coastal Communities Hospital),Short Term Acute Care Hospital,Orange,California,6,59,6059,109,109,9,9,0,0.30503958000000003,2,0
+438,Rancho Los Amigos National Rehabilitation Center,Short Term Acute Care Hospital,Los Angeles,California,6,37,6037,158,114,12,12,0,0.52828646,2,44
+439,Sutter Auburn Faith Hospital,Short Term Acute Care Hospital,Placer,California,6,61,6061,64,64,8,8,0,0.48497432,3,0
+440,Sutter Roseville Medical Center,Short Term Acute Care Hospital,Placer,California,6,61,6061,328,264,32,32,16,0.7753424600000001,13,64
+441,Eastern Plumas Hospital - Portola Campus,Critical Access Hospital,Plumas,California,6,63,6063,9,9,2,2,0,0.36672738,0,0
+442,Plumas District Hospital,Critical Access Hospital,Plumas,California,6,63,6063,16,17,4,4,0,0.36148268,2,-1
+443,Seneca Healthcare District Hospital,Critical Access Hospital,Plumas,California,6,63,6063,10,10,2,2,0,0.09289617800000001,1,0
+444,Moreno Valley Medical Center,Short Term Acute Care Hospital,Riverside,California,6,65,6065,94,94,10,10,0,0.40760711,2,0
+445,Menifee Global Medical Center (FKA Menifee Valley Medical Center),Short Term Acute Care Hospital,Riverside,California,6,65,6065,84,84,10,10,0,0.56079584,2,0
+446,Riverside Medical Center,Short Term Acute Care Hospital,Riverside,California,6,65,6065,226,226,22,22,19,0.49818161,3,0
+447,Eisenhower Health,Short Term Acute Care Hospital,Riverside,California,6,65,6065,463,345,34,34,0,0.51275045,9,118
+448,JFK Memorial Hospital,Short Term Acute Care Hospital,Riverside,California,6,65,6065,145,130,16,16,0,0.39142495,4,15
+449,Palo Verde Hospital,Short Term Acute Care Hospital,Riverside,California,6,65,6065,51,51,4,4,0,0.11523626000000001,2,0
+450,Hemet Valley Medical Center,Short Term Acute Care Hospital,Riverside,California,6,65,6065,304,22,18,18,0,0.46296605,6,282
+451,Corona Regional Medical Center - Main Street Campus,Short Term Acute Care Hospital,Riverside,California,6,65,6065,160,160,22,22,0,0.52804792,7,0
+452,Riverside University Health System Medical Center (FKA Riverside County Regional Medical Center),Short Term Acute Care Hospital,Riverside,California,6,65,6065,362,423,45,45,40,0.72145474,7,-61
+453,Desert Regional Medical Center,Short Term Acute Care Hospital,Riverside,California,6,65,6065,353,326,31,31,30,0.66454685,8,27
+454,Parkview Community Hospital Medical Center,Short Term Acute Care Hospital,Riverside,California,6,65,6065,193,191,13,13,12,0.39909631,5,2
+455,San Gorgonio Memorial Hospital,Short Term Acute Care Hospital,Riverside,California,6,65,6065,79,61,6,6,0,0.44873118,3,18
+456,Riverside Community Hospital,Short Term Acute Care Hospital,Riverside,California,6,65,6065,478,478,89,89,0,0.69434917,12,0
+457,Mercy General Hospital,Short Term Acute Care Hospital,Sacramento,California,6,67,6067,419,342,21,21,0,0.41636792,11,77
+458,Sutter Medical Center - Ose Adams Medical Pavilion (FKA Sutter General Hospital),Short Term Acute Care Hospital,Sacramento,California,6,67,6067,523,523,80,80,81,0.65509313,14,0
+459,VA Northern California Health Care System Valley Division - Sacramento VA Medical Center,VA Hospital,Sacramento,California,6,67,6067,50,50,1,1,0,0.0,2,0
+460,Kaiser Permanente - Sacramento Medical Center,Short Term Acute Care Hospital,Sacramento,California,6,67,6067,287,287,34,34,0,0.47747599999999996,6,0
+461,Mercy Hospital of Folsom,Short Term Acute Care Hospital,Sacramento,California,6,67,6067,106,106,8,8,0,0.6210131600000001,6,0
+462,Mercy San Juan Medical Center,Short Term Acute Care Hospital,Sacramento,California,6,67,6067,370,370,56,56,26,0.68547207,23,0
+463,Kaiser Permanente - South Sacramento Medical Center,Short Term Acute Care Hospital,Sacramento,California,6,67,6067,241,233,30,30,0,0.65440202,8,8
+464,Methodist Hospital of Sacramento,Short Term Acute Care Hospital,Sacramento,California,6,67,6067,158,158,20,20,12,0.58080661,9,0
+465,University of California Davis Medical Center (AKA UC Davis Medical Center),Short Term Acute Care Hospital,Sacramento,California,6,67,6067,625,598,84,84,73,0.84651119,18,27
+466,Hazel Hawkins Memorial Hospital,Critical Access Hospital,San Benito,California,6,69,6069,25,49,8,8,0,0.24907063000000002,2,-24
+467,Barstow Community Hospital,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,30,30,4,4,0,0.51114154,2,0
+468,St Mary Medical Center,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,212,213,20,20,8,0.74008697,4,-1
+469,Loma Linda University Medical Center,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,371,469,41,41,0,0.69706506,28,-98
+470,Arrowhead Regional Medical Center,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,366,366,62,62,30,0.6972961400000001,6,0
+471,Hi Desert Medical Center,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,59,55,4,4,0,0.27074018,2,4
+472,Redlands Community Hospital,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,195,195,12,12,17,0.63668424,5,0
+473,San Antonio Regional Hospital (FKA San Antonio Community Hospital),Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,363,363,24,24,0,0.57462543,11,0
+474,Community Hospital of San Bernardino,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,185,185,21,21,9,0.41734174,3,0
+475,St Bernardine Medical Center,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,342,328,47,47,20,0.5400350700000001,8,14
+476,Fontana Medical Center,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,450,626,80,80,36,0.55159962,8,-176
+477,Chino Valley Medical Center,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,112,112,14,14,0,0.3435747,3,0
+478,Bear Valley Community Hospital (AKA Bear Valley Community Healthcare District),Critical Access Hospital,San Bernardino,California,6,71,6071,9,9,2,2,0,0.15148756,2,0
+479,Montclair Hospital Medical Center,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,106,106,8,8,0,0.23251486000000002,3,0
+480,VA Loma Linda Healthcare System (AKA Jerry L Pettis Memorial Veterans Hospital),VA Hospital,San Bernardino,California,6,71,6071,162,162,0,0,0,0.0,0,0
+481,Desert Valley Hospital,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,148,148,18,18,0,0.77276933,7,0
+482,Victor Valley Global Medical Center,Short Term Acute Care Hospital,San Bernardino,California,6,71,6071,101,101,10,10,2,0.56034178,3,0
+483,Colorado River Medical Center,Critical Access Hospital,San Bernardino,California,6,71,6071,25,25,4,4,0,0.14082192,1,0
+484,Mountains Community Hospital,Critical Access Hospital,San Bernardino,California,6,71,6071,17,17,3,3,0,0.18791297,0,0
+485,Kaiser Permanente Zion Medical Center,Short Term Acute Care Hospital,San Diego,California,6,73,6073,406,563,32,32,29,0.48262876,4,-157
+486,Scripps Memorial Hospital Encinitas,Short Term Acute Care Hospital,San Diego,California,6,73,6073,193,171,12,12,0,0.69515342,5,22
+487,Scripps Green Hospital,Short Term Acute Care Hospital,San Diego,California,6,73,6073,173,150,24,24,0,0.51676714,3,23
+488,VA San Diego Healthcare System,VA Hospital,San Diego,California,6,73,6073,296,296,0,0,0,0.0,0,0
+489,Alvarado Hospital Medical Center,Short Term Acute Care Hospital,San Diego,California,6,73,6073,306,226,28,28,0,0.25940114000000003,6,80
+490,Palomar Medical Center Poway (FKA Pomerado Hospital),Short Term Acute Care Hospital,San Diego,California,6,73,6073,95,95,12,12,4,0.52047741,8,0
+491,Palomar Medical Center Downtown Escondido (FKA Palomar Health Downtown Campus),Short Term Acute Care Hospital,San Diego,California,6,73,6073,93,286,48,48,0,0.71714205,10,-193
+492,Tri-City Medical Center,Short Term Acute Care Hospital,San Diego,California,6,73,6073,368,290,28,28,20,0.52045345,9,78
+493,Scripps Mercy Hospital San Diego,Short Term Acute Care Hospital,San Diego,California,6,73,6073,446,487,56,56,0,0.7185452,16,-41
+494,Sharp Memorial Hospital,Short Term Acute Care Hospital,San Diego,California,6,73,6073,656,459,74,74,84,0.5007574,16,197
+495,Sharp Coronado Hospital,Short Term Acute Care Hospital,San Diego,California,6,73,6073,59,59,7,7,0,0.32454145,2,0
+496,Sharp Chula Vista Medical Center,Short Term Acute Care Hospital,San Diego,California,6,73,6073,349,243,35,35,9,0.7898641200000001,13,106
+497,Scripps Memorial Hospital La Jolla,Short Term Acute Care Hospital,San Diego,California,6,73,6073,432,365,59,59,0,0.63846874,11,67
+498,Paradise Valley Hospital,Short Term Acute Care Hospital,San Diego,California,6,73,6073,291,291,15,15,0,0.4621084,6,0
+499,UC San Diego Medical Center - Hillcrest,Short Term Acute Care Hospital,San Diego,California,6,73,6073,390,381,58,58,52,0.78506762,21,9
+500,Sharp Grossmont Hospital,Short Term Acute Care Hospital,San Diego,California,6,73,6073,448,430,48,48,24,0.7159223,32,18
+501,California Pacific Medical Center - Mission Bernal Campus (FKA California Pacific Medical Center - St Lukes Campus),Short Term Acute Care Hospital,San Francisco,California,6,75,6075,120,120,10,10,0,0.55557078,3,0
+502,California Pacific Medical Center - Davies Campus,Short Term Acute Care Hospital,San Francisco,California,6,75,6075,153,137,8,8,0,0.35156485,3,16
+503,Zuckerberg San Francisco General Hospital (FKA San Francisco General Hospital),Short Term Acute Care Hospital,San Francisco,California,6,75,6075,284,284,58,58,13,0.79859155,6,0
+504,Kaiser Permanente - San Francisco Medical Center,Short Term Acute Care Hospital,San Francisco,California,6,75,6075,239,239,32,32,22,0.6196022,2,0
+505,Saint Francis Memorial Hospital,Short Term Acute Care Hospital,San Francisco,California,6,75,6075,259,156,34,34,0,0.31141552,4,103
+506,Laguna Honda Hospital and Rehabilitation Center,Short Term Acute Care Hospital,San Francisco,California,6,75,6075,11,6,1,1,0,0.042465754,0,5
+507,St Marys Medical Center,Short Term Acute Care Hospital,San Francisco,California,6,75,6075,240,113,19,19,0,0.47482118,5,127
+508,UCSF Helen Diller Medical Center at Parnassus Heights,Short Term Acute Care Hospital,San Francisco,California,6,75,6075,590,785,122,122,58,0.8194381,9,-195
+509,Chinese Hospital,Short Term Acute Care Hospital,San Francisco,California,6,75,6075,65,65,6,6,0,0.27639171,2,0
+510,San Francisco VA Health Care System - San Francisco VA Medical Center,VA Hospital,San Francisco,California,6,75,6075,112,112,1,1,0,0.0,2,0
+511,Adventist Health Lodi Memorial,Short Term Acute Care Hospital,San Joaquin,California,6,77,6077,194,186,10,10,0,0.41756415,5,8
+512,Kaiser Permanente - Manteca Medical Center,Short Term Acute Care Hospital,San Joaquin,California,6,77,6077,61,213,26,26,24,0.56007463,3,-152
+513,San Joaquin General Hospital,Short Term Acute Care Hospital,San Joaquin,California,6,77,6077,152,196,16,16,25,0.6314649,7,-44
+514,Dameron Hospital,Short Term Acute Care Hospital,San Joaquin,California,6,77,6077,202,170,12,12,0,0.20499597,4,32
+515,St Josephs Medical Center,Short Term Acute Care Hospital,San Joaquin,California,6,77,6077,355,348,30,30,30,0.72087073,19,7
+516,Doctors Hospital of Manteca,Short Term Acute Care Hospital,San Joaquin,California,6,77,6077,73,73,8,8,0,0.56287897,5,0
+517,Sutter Tracy Community Hospital,Short Term Acute Care Hospital,San Joaquin,California,6,77,6077,77,77,8,8,0,0.41469491,4,0
+518,French Hospital Medical Center,Short Term Acute Care Hospital,San Luis Obispo,California,6,79,6079,98,98,11,11,0,0.48011389,6,0
+519,Twin Cities Community Hospital,Short Term Acute Care Hospital,San Luis Obispo,California,6,79,6079,122,122,18,18,0,0.33252709999999996,4,0
+520,Sierra Vista Regional Medical Center (FKA Sierra Vista Regional Medical Center),Short Term Acute Care Hospital,San Luis Obispo,California,6,79,6079,162,162,17,17,22,0.37424949,3,0
+521,Arroyo Grande Community Hospital,Short Term Acute Care Hospital,San Luis Obispo,California,6,79,6079,67,53,8,8,0,0.39172912,0,14
+522,Mills-Peninsula Medical Center,Short Term Acute Care Hospital,San Mateo,California,6,81,6081,241,241,24,24,12,0.52807367,6,0
+523,Kaiser Permanente - Redwood City Medical Center,Short Term Acute Care Hospital,San Mateo,California,6,81,6081,153,149,20,20,4,0.47639975,2,4
+524,Sequoia Hospital,Short Term Acute Care Hospital,San Mateo,California,6,81,6081,208,208,16,16,0,0.24903846000000002,3,0
+525,Seton Medical Center,Short Term Acute Care Hospital,San Mateo,California,6,81,6081,255,255,28,28,0,0.20832662000000002,5,0
+526,San Mateo Medical Center (AKA San Mateo County Health System),Short Term Acute Care Hospital,San Mateo,California,6,81,6081,509,69,7,7,0,0.43953434,2,440
+527,Kaiser Permanente - South San Francisco Medical Center,Short Term Acute Care Hospital,San Mateo,California,6,81,6081,120,120,15,15,0,0.46207762,2,0
+528,Lompoc Valley Medical Center Hospital,Short Term Acute Care Hospital,Santa Barbara,California,6,83,6083,60,60,6,6,0,0.33492714,3,0
+529,Marian Regional Medical Center,Short Term Acute Care Hospital,Santa Barbara,California,6,83,6083,226,191,28,28,21,0.55450851,15,35
+530,Goleta Valley Cottage Hospital,Short Term Acute Care Hospital,Santa Barbara,California,6,83,6083,52,28,8,8,0,0.39090019,1,24
+531,Santa Barbara Cottage Hospital,Short Term Acute Care Hospital,Santa Barbara,California,6,83,6083,461,342,40,40,30,0.64056718,6,119
+532,Santa Ynez Valley Cottage Hospital,Critical Access Hospital,Santa Barbara,California,6,83,6083,11,11,2,2,0,0.12976339,1,0
+533,Lucile Packard Childrens Hospital Stanford (AKA Stanford Childrens Health),Childrens Hospital,Santa Clara,California,6,85,6085,396,345,124,124,124,0.72455829,5,51
+534,Good Samaritan Hospital,Short Term Acute Care Hospital,Santa Clara,California,6,85,6085,404,318,24,24,45,0.67385697,10,86
+535,Stanford Hospital,Short Term Acute Care Hospital,Santa Clara,California,6,85,6085,583,447,59,59,0,0.90326375,21,136
+536,Kaiser Permanente - San Jose Medical Center,Short Term Acute Care Hospital,Santa Clara,California,6,85,6085,247,235,24,24,0,0.45775574,3,12
+537,St Louise Regional Hospital,Short Term Acute Care Hospital,Santa Clara,California,6,85,6085,72,72,8,8,0,0.41221461,3,0
+538,VA Palo Alto Health Care System - Palo Alto Division,VA Hospital,Santa Clara,California,6,85,6085,0,0,2,2,0,0.0,2,0
+539,El Camino Hospital - Mountain View Campus,Short Term Acute Care Hospital,Santa Clara,California,6,85,6085,275,388,39,39,22,0.4702552,13,-113
+540,Kaiser Permanente - Santa Clara Medical Center,Short Term Acute Care Hospital,Santa Clara,California,6,85,6085,327,327,38,38,26,0.6329604999999999,3,0
+541,Regional Medical Center of San Jose,Short Term Acute Care Hospital,Santa Clara,California,6,85,6085,264,258,34,34,6,0.84175426,14,6
+542,OConnor Hospital,Short Term Acute Care Hospital,Santa Clara,California,6,85,6085,334,324,22,22,0,0.29362422,6,10
+543,Santa Clara Valley Medical Center,Short Term Acute Care Hospital,Santa Clara,California,6,85,6085,681,852,59,59,53,0.50686938,7,-171
+544,Watsonville Community Hospital,Short Term Acute Care Hospital,Santa Cruz,California,6,87,6087,106,106,6,6,10,0.34205222,2,0
+545,Dominican Hospital,Short Term Acute Care Hospital,Santa Cruz,California,6,87,6087,222,202,16,16,14,0.62704462,10,20
+546,Sutter Maternity & Surgery Center of Santa Cruz,Short Term Acute Care Hospital,Santa Cruz,California,6,87,6087,28,28,5,5,0,0.24354808,1,0
+547,Shasta Regional Medical Center,Short Term Acute Care Hospital,Shasta,California,6,89,6089,226,205,37,37,0,0.37055796,11,21
+548,Patients Hospital of Redding,Short Term Acute Care Hospital,Shasta,California,6,89,6089,10,10,2,2,0,0.10410959,0,0
+549,Mercy Medical Center Redding,Short Term Acute Care Hospital,Shasta,California,6,89,6089,266,267,44,44,16,0.62779742,19,-1
+550,Mayers Memorial Hospital,Critical Access Hospital,Shasta,California,6,89,6089,16,16,4,4,0,0.2354452,1,0
+551,Mercy Medical Center Mt Shasta,Critical Access Hospital,Siskiyou,California,6,93,6093,33,25,4,4,0,0.32701369999999996,2,8
+552,Fairchild Medical Center,Critical Access Hospital,Siskiyou,California,6,93,6093,28,25,4,4,0,0.47221917,2,3
+553,Kaiser Permanente - Vallejo Medical Center,Short Term Acute Care Hospital,Solano,California,6,95,6095,248,200,40,40,0,0.44384933,4,48
+554,Sutter Solano Medical Center,Short Term Acute Care Hospital,Solano,California,6,95,6095,106,106,12,12,0,0.45637116,4,0
+555,NorthBay Medical Center,Short Term Acute Care Hospital,Solano,California,6,95,6095,132,132,24,24,16,0.69897634,5,0
+556,Sonoma Specialty Hospital (FKA Sonoma West Medical Center Palm Drive Hospital),Long Term Acute Care Hospital,Sonoma,California,6,97,6097,37,37,5,5,0,0.15795304000000002,2,0
+557,Kaiser Permanente - Santa Rosa Medical Center,Short Term Acute Care Hospital,Sonoma,California,6,97,6097,173,173,20,20,0,0.51304144,2,0
+558,Sonoma Valley Hospital,Short Term Acute Care Hospital,Sonoma,California,6,97,6097,24,48,6,6,0,0.21900685,2,-24
+559,Petaluma Valley Hospital,Short Term Acute Care Hospital,Sonoma,California,6,97,6097,80,80,9,9,0,0.34921449,3,0
+560,Santa Rosa Memorial Hospital,Short Term Acute Care Hospital,Sonoma,California,6,97,6097,298,274,26,26,0,0.6294622999999999,15,24
+561,Sutter Santa Rosa Regional Hospital (FKA Sutter Medical Center of Santa Rosa),Short Term Acute Care Hospital,Sonoma,California,6,97,6097,84,74,12,12,12,0.80463141,4,10
+562,Healdsburg District Hospital,Critical Access Hospital,Sonoma,California,6,97,6097,26,25,4,4,0,0.27178082,2,1
+563,Emanuel Medical Center,Short Term Acute Care Hospital,Stanislaus,California,6,99,6099,209,209,12,12,6,0.46924034000000003,7,0
+564,Oak Valley District Hospital,Short Term Acute Care Hospital,Stanislaus,California,6,99,6099,35,35,5,5,0,0.22630137,2,0
+565,Stanislaus Surgical Hospital,Short Term Acute Care Hospital,Stanislaus,California,6,99,6099,23,23,4,4,0,0.070399046,0,0
+566,Memorial Medical Center,Short Term Acute Care Hospital,Stanislaus,California,6,99,6099,419,419,35,35,12,0.52277112,19,0
+567,Doctors Medical Center Modesto,Short Term Acute Care Hospital,Stanislaus,California,6,99,6099,394,380,22,22,45,0.76146823,16,14
+568,Sutter Surgical Hospital North Valley,Short Term Acute Care Hospital,Sutter,California,6,101,6101,14,14,2,2,0,0.22720157,0,0
+569,St Elizabeth Community Hospital,Short Term Acute Care Hospital,Tehama,California,6,103,6103,76,49,8,8,0,0.5535364700000001,4,27
+570,Trinity Hospital,Critical Access Hospital,Trinity,California,6,105,6105,25,25,4,4,0,0.26060274,1,0
+571,Kaweah Delta Medical Center,Short Term Acute Care Hospital,Tulare,California,6,107,6107,448,403,41,41,15,0.67049044,8,45
+572,Adventist Health Tulare (FKA Tulare Regional Medical Center),Short Term Acute Care Hospital,Tulare,California,6,107,6107,108,73,14,14,0,0.12417857,3,35
+573,Sierra View Medical Center (FKA Sierra View District Hospital),Short Term Acute Care Hospital,Tulare,California,6,107,6107,167,128,10,10,0,0.46206883,6,39
+574,Adventist Health Sonora (FKA Sonora Regional Medical Center),Short Term Acute Care Hospital,Tuolumne,California,6,109,6109,72,84,6,6,0,0.48225701,5,-12
+575,Adventist Health Simi Valley (FKA Simi Valley Hospital & Health Care Services),Short Term Acute Care Hospital,Ventura,California,6,111,6111,144,144,24,24,8,0.55709666,4,0
+576,St Johns Regional Medical Center,Short Term Acute Care Hospital,Ventura,California,6,111,6111,265,242,20,20,16,0.53732592,9,23
+577,Ventura County Medical Center,Short Term Acute Care Hospital,Ventura,California,6,111,6111,180,272,52,52,24,0.43028808,3,-92
+578,St Johns Pleasant Valley Hospital,Short Term Acute Care Hospital,Ventura,California,6,111,6111,58,58,8,8,0,0.70192462,4,0
+579,Community Memorial Hospital,Short Term Acute Care Hospital,Ventura,California,6,111,6111,250,220,21,21,16,0.66550434,4,30
+580,Los Robles Health System - Los Robles Regional Medical Center,Short Term Acute Care Hospital,Ventura,California,6,111,6111,321,285,24,24,12,0.69886082,9,36
+581,Ojai Valley Community Hospital,Critical Access Hospital,Ventura,California,6,111,6111,25,25,4,4,0,0.33676714,2,0
+582,Sutter Davis Hospital,Short Term Acute Care Hospital,Yolo,California,6,113,6113,48,48,6,6,0,0.63316208,3,0
+583,Woodland Memorial Hospital,Short Term Acute Care Hospital,Yolo,California,6,113,6113,74,77,8,8,0,0.34146783,4,-3
+584,Rideout - Adventist Health and Rideout (FKA Rideout Memorial Hospital),Short Term Acute Care Hospital,Yuba,California,6,115,6115,221,149,24,24,6,0.70734745,12,72
+585,Platte Valley Medical Center,Short Term Acute Care Hospital,Adams,Colorado,8,1,8001,98,89,8,8,16,0.30715716,2,9
+586,UCHealth University of Colorado Hospital,Short Term Acute Care Hospital,Adams,Colorado,8,1,8001,698,667,144,144,50,0.81625974,20,31
+587,North Suburban Medical Center,Short Term Acute Care Hospital,Adams,Colorado,8,1,8001,157,139,16,16,0,0.56446242,5,18
+588,Childrens Hospital Colorado - Anschutz Medical Campus,Childrens Hospital,Adams,Colorado,8,1,8001,444,432,36,36,82,0.60192978,5,12
+589,SLV Health Regional Medical Center,Short Term Acute Care Hospital,Alamosa,Colorado,8,3,8003,49,49,6,6,0,0.35535854,2,0
+590,The Medical Center of Aurora - Main Campus,Short Term Acute Care Hospital,Arapahoe,Colorado,8,5,8005,346,306,45,45,14,0.65194535,8,40
+591,Swedish Medical Center,Short Term Acute Care Hospital,Arapahoe,Colorado,8,5,8005,408,327,58,58,17,0.76445752,10,81
+592,Sky Ridge Medical Center,Short Term Acute Care Hospital,Douglas,Colorado,8,35,8035,284,284,30,30,28,0.5923543,4,0
+593,Littleton Adventist Hospital,Short Term Acute Care Hospital,Arapahoe,Colorado,8,5,8005,231,159,24,24,14,0.65855086,4,72
+594,Pagosa Springs Medical Center (FKA Pagosa Mountain Hospital),Critical Access Hospital,Archuleta,Colorado,8,7,8007,11,11,2,2,0,0.26500621,1,0
+595,Good Samaritan Medical Center (FKA Exempla Good Samaritan Medical Center LLC),Short Term Acute Care Hospital,Boulder,Colorado,8,13,8013,234,183,24,24,12,0.65148586,6,51
+596,Avista Adventist Hospital,Short Term Acute Care Hospital,Boulder,Colorado,8,13,8013,114,108,8,8,26,0.32947743,2,6
+597,Longmont United Hospital,Short Term Acute Care Hospital,Boulder,Colorado,8,13,8013,186,116,16,16,6,0.40769958,2,70
+598,Heart of the Rockies Regional Medical Center,Critical Access Hospital,Chaffee,Colorado,8,15,8015,25,25,2,2,0,0.43364385,2,0
+599,Keefe Memorial Hospital,Short Term Acute Care Hospital,Cheyenne,Colorado,8,17,8017,25,11,2,2,0,0.074719802,1,14
+600,Delta County Memorial Hospital,Short Term Acute Care Hospital,Delta,Colorado,8,29,8029,49,49,6,6,0,0.25814929999999997,2,0
+601,National Jewish Health,Short Term Acute Care Hospital,Denver,Colorado,8,31,8031,46,12,4,4,0,0.10223133,2,34
+602,Rose Medical Center,Short Term Acute Care Hospital,Denver,Colorado,8,31,8031,422,226,35,35,24,0.50159794,5,196
+603,Porter Adventist Hospital,Short Term Acute Care Hospital,Denver,Colorado,8,31,8031,368,180,36,36,0,0.45159817,3,188
+604,Saint Joseph Hospital (FKA Exempla St Joseph Hospital),Short Term Acute Care Hospital,Denver,Colorado,8,31,8031,400,361,30,30,35,0.63799191,3,39
+605,Denver Health Main Campus,Short Term Acute Care Hospital,Denver,Colorado,8,31,8031,555,369,55,55,25,0.63049829,4,186
+606,Presbyterian/St Lukes Medical Center,Short Term Acute Care Hospital,Denver,Colorado,8,31,8031,680,307,71,71,42,0.59720945,5,373
+607,St Anthony Hospital,Short Term Acute Care Hospital,Jefferson,Colorado,8,59,8059,237,219,76,76,0,0.70267236,7,18
+608,Parker Adventist Hospital,Short Term Acute Care Hospital,Douglas,Colorado,8,35,8035,170,165,16,16,12,0.5110411,3,5
+609,Vail Health (FKA Vail Valley Medical Center),Short Term Acute Care Hospital,Eagle,Colorado,8,37,8037,56,54,5,5,0,0.24398783000000002,2,2
+610,UCHealth Memorial Hospital Central,Short Term Acute Care Hospital,El Paso,Colorado,8,41,8041,583,463,46,46,84,0.57951975,12,120
+611,Penrose Hospital,Short Term Acute Care Hospital,El Paso,Colorado,8,41,8041,364,447,45,45,46,0.61989278,9,-83
+612,St Thomas More Hospital,Critical Access Hospital,Fremont,Colorado,8,43,8043,25,33,4,4,0,0.41485837000000003,2,-8
+613,Valley View Hospital,Short Term Acute Care Hospital,Garfield,Colorado,8,45,8045,78,41,5,5,2,0.8117607800000001,2,37
+614,Grand River Medical Center (AKA Grand River Health),Critical Access Hospital,Garfield,Colorado,8,45,8045,25,12,3,3,0,0.4609589,2,13
+615,Gunnison Valley Health,Critical Access Hospital,Gunnison,Colorado,8,51,8051,24,20,3,3,0,0.27917808,2,4
+616,Spanish Peaks Regional Health Center,Critical Access Hospital,Huerfano,Colorado,8,55,8055,20,20,3,3,0,0.62342465,0,0
+617,St Anthony North Health Campus,Short Term Acute Care Hospital,Adams,Colorado,8,1,8001,100,132,20,20,0,0.58642048,3,-32
+618,Lutheran Medical Center (FKA Exempla Lutheran Medical Center),Short Term Acute Care Hospital,Jefferson,Colorado,8,59,8059,338,186,18,18,20,0.62412727,9,152
+619,Kit Carson County Memorial Hospital,Critical Access Hospital,Kit Carson,Colorado,8,63,8063,19,19,3,3,0,0.19019467,0,0
+620,St Vincent General Hospital District,Critical Access Hospital,Lake,Colorado,8,65,8065,25,8,1,1,0,0.17500000000000002,1,17
+621,Animas Surgical Hospital,Short Term Acute Care Hospital,La Plata,Colorado,8,67,8067,12,12,2,2,0,0.21050228,0,0
+622,Mercy Regional Medical Center,Short Term Acute Care Hospital,La Plata,Colorado,8,67,8067,82,82,11,11,0,0.45428497,2,0
+623,McKee Medical Center,Short Term Acute Care Hospital,Larimer,Colorado,8,69,8069,115,115,11,11,0,0.19726028,2,0
+624,UCHealth Poudre Valley Hospital,Short Term Acute Care Hospital,Larimer,Colorado,8,69,8069,255,208,12,12,25,0.59067625,7,47
+625,Estes Park Health (FKA Estes Park Medical Center),Critical Access Hospital,Larimer,Colorado,8,69,8069,23,23,4,4,0,0.12832877,0,0
+626,UCHealth Medical Center of the Rockies,Short Term Acute Care Hospital,Larimer,Colorado,8,69,8069,174,174,20,20,0,0.71229821,9,0
+627,Mt San Rafael Hospital,Critical Access Hospital,Las Animas,Colorado,8,71,8071,25,25,4,4,0,0.2570959,2,0
+628,Sterling Regional MedCenter,Short Term Acute Care Hospital,Logan,Colorado,8,75,8075,25,25,4,4,0,0.30860275,2,0
+629,VA Western Colorado Health Care System (AKA Grand Junction VA Medical Center),VA Hospital,Mesa,Colorado,8,77,8077,53,53,1,1,0,0.0,2,0
+630,Community Hospital (AKA Colorado West Healthcare System),Short Term Acute Care Hospital,Mesa,Colorado,8,77,8077,60,44,12,12,0,0.4669365,2,16
+631,St Marys Medical Center (FKA St Marys Hospital and Medical Center),Short Term Acute Care Hospital,Mesa,Colorado,8,77,8077,257,257,18,18,0,0.61757904,8,0
+632,Memorial Regional Health (FKA Memorial Hospital at Craig),Critical Access Hospital,Moffat,Colorado,8,81,8081,25,25,4,4,0,0.2869041,2,0
+633,Southwest Memorial Hospital,Critical Access Hospital,Montezuma,Colorado,8,83,8083,25,25,4,4,0,0.35769862,2,0
+634,Montrose Memorial Hospital,Short Term Acute Care Hospital,Montrose,Colorado,8,85,8085,75,47,8,8,0,0.35715535,2,28
+635,Colorado Plains Medical Center,Short Term Acute Care Hospital,Morgan,Colorado,8,87,8087,50,36,6,6,0,0.16849315,2,14
+636,East Morgan County Hospital,Critical Access Hospital,Morgan,Colorado,8,87,8087,25,25,4,4,0,0.16208219999999998,1,0
+637,Arkansas Valley Regional Medical Center,Critical Access Hospital,Otero,Colorado,8,89,8089,25,25,5,5,0,0.3898907,2,0
+638,Melissa Memorial Hospital (AKA East Phillips County Hospital District),Critical Access Hospital,Phillips,Colorado,8,95,8095,15,15,3,3,0,0.18488159999999998,0,0
+639,Aspen Valley Hospital,Critical Access Hospital,Pitkin,Colorado,8,97,8097,25,25,4,4,0,0.21939726,2,0
+640,Prowers Medical Center,Critical Access Hospital,Prowers,Colorado,8,99,8099,25,25,4,4,0,0.2820822,1,0
+641,St Mary-Corwin Medical Center,Short Term Acute Care Hospital,Pueblo,Colorado,8,101,8101,408,42,6,6,0,0.49414518,3,366
+642,Parkview Medical Center,Short Term Acute Care Hospital,Pueblo,Colorado,8,101,8101,350,268,11,11,0,0.71025437,9,82
+643,Pioneers Medical Center,Critical Access Hospital,Rio Blanco,Colorado,8,103,8103,10,10,2,2,0,0.41643837,1,0
+644,Rangely District Hospital,Critical Access Hospital,Rio Blanco,Colorado,8,103,8103,25,25,4,4,0,0.54619175,1,0
+645,Rio Grande Hospital,Critical Access Hospital,Rio Grande,Colorado,8,105,8105,17,17,3,3,0,0.39371476,2,0
+646,UCHealth Yampa Valley Medical Center,Short Term Acute Care Hospital,Routt,Colorado,8,107,8107,39,39,4,4,0,0.21276447,2,0
+647,St Anthony Summit Medical Center,Short Term Acute Care Hospital,Summit,Colorado,8,117,8117,35,34,8,8,0,0.24284796,2,1
+648,UCHealth Pikes Peak Regional Hospital,Critical Access Hospital,Teller,Colorado,8,119,8119,15,13,3,3,0,0.31694645,1,2
+649,North Colorado Medical Center,Short Term Acute Care Hospital,Weld,Colorado,8,123,8123,378,222,26,26,0,0.51590949,4,156
+650,Wray Community District Hospital,Critical Access Hospital,Yuma,Colorado,8,125,8125,15,15,3,3,0,0.23476027,1,0
+651,Yuma District Hospital,Critical Access Hospital,Yuma,Colorado,8,125,8125,15,15,3,3,0,0.13625571,0,0
+652,Stamford Hospital (AKA Stamford Health),Short Term Acute Care Hospital,Fairfield,Connecticut,9,1,9001,288,288,36,36,0,0.58706242,9,0
+653,St Vincents Medical Center,Short Term Acute Care Hospital,Fairfield,Connecticut,9,1,9001,191,191,14,14,0,0.66559565,6,0
+654,Bridgeport Hospital,Short Term Acute Care Hospital,Fairfield,Connecticut,9,1,9001,348,348,32,32,0,0.70557392,8,0
+655,Greenwich Hospital,Short Term Acute Care Hospital,Fairfield,Connecticut,9,1,9001,181,181,10,10,10,0.6133958700000001,4,0
+656,Danbury Hospital,Short Term Acute Care Hospital,Fairfield,Connecticut,9,1,9001,350,350,41,41,0,0.61780822,11,0
+657,Norwalk Hospital,Short Term Acute Care Hospital,Fairfield,Connecticut,9,1,9001,235,235,40,40,16,0.50098515,6,0
+658,The Hospital of Central Connecticut - Bradley Memorial Campus,Short Term Acute Care Hospital,Hartford,Connecticut,9,3,9003,84,84,24,24,0,0.61064333,5,0
+659,UConn John Dempsey Hospital (AKA UConn Health Center),Short Term Acute Care Hospital,Hartford,Connecticut,9,3,9003,138,138,20,20,0,0.58919376,3,0
+660,Hartford Hospital,Short Term Acute Care Hospital,Hartford,Connecticut,9,3,9003,867,702,84,84,0,0.81345665,14,165
+661,Manchester Memorial Hospital,Short Term Acute Care Hospital,Hartford,Connecticut,9,3,9003,140,140,32,32,0,0.47825831,2,0
+662,Bristol Hospital,Short Term Acute Care Hospital,Hartford,Connecticut,9,3,9003,106,106,14,14,0,0.57761693,5,0
+663,Hebrew Senior Care,Short Term Acute Care Hospital,Hartford,Connecticut,9,3,9003,23,23,4,4,0,0.007027993000000001,0,0
+664,Connecticut Childrens Medical Center,Childrens Hospital,Hartford,Connecticut,9,3,9003,187,187,90,90,90,0.65727055,2,0
+665,Saint Francis Hospital and Medical Center,Short Term Acute Care Hospital,Hartford,Connecticut,9,3,9003,474,474,42,42,28,0.63813341,26,0
+666,Sharon Hospital,Short Term Acute Care Hospital,Litchfield,Connecticut,9,5,9005,66,66,11,11,0,0.18750519000000002,2,0
+667,Charlotte Hungerford Hospital,Short Term Acute Care Hospital,Litchfield,Connecticut,9,5,9005,91,91,10,10,0,0.60740632,5,0
+668,Middlesex Hospital (AKA Middlesex Health System),Short Term Acute Care Hospital,Middlesex,Connecticut,9,7,9007,187,187,24,24,0,0.62420338,7,0
+669,Bridgeport Hospital Milford Campus (FKA Milford Hospital),Short Term Acute Care Hospital,New Haven,Connecticut,9,9,9009,106,106,10,10,0,0.2552056,2,0
+670,Saint Marys Hospital,Short Term Acute Care Hospital,New Haven,Connecticut,9,9,9009,151,151,16,16,0,0.65513927,6,0
+671,MidState Medical Center,Short Term Acute Care Hospital,New Haven,Connecticut,9,9,9009,144,144,25,25,0,0.70828903,4,0
+672,Yale New Haven Hospital,Short Term Acute Care Hospital,New Haven,Connecticut,9,9,9009,581,581,88,88,107,0.81244361,28,0
+673,The Connecticut Hospice,Short Term Acute Care Hospital,New Haven,Connecticut,9,9,9009,10,10,1,1,0,0.4969863,0,0
+674,Masonicare Health Center,Short Term Acute Care Hospital,New Haven,Connecticut,9,9,9009,30,30,5,5,0,0.19123287,0,0
+675,Griffin Hospital,Short Term Acute Care Hospital,New Haven,Connecticut,9,9,9009,101,101,14,14,0,0.65834802,3,0
+676,Waterbury Hospital (AKA Waterbury HEALTH),Short Term Acute Care Hospital,New Haven,Connecticut,9,9,9009,213,213,20,20,0,0.52492124,4,0
+677,Lawrence & Memorial Hospital,Short Term Acute Care Hospital,New London,Connecticut,9,11,9011,236,236,10,10,13,0.6521592700000001,7,0
+678,The William W Backus Hospital (AKA Backus Hospital),Short Term Acute Care Hospital,New London,Connecticut,9,11,9011,165,165,12,12,0,0.7049065800000001,5,0
+679,Rockville General Hospital,Short Term Acute Care Hospital,Tolland,Connecticut,9,13,9013,102,102,9,9,0,0.35683587,2,0
+680,Johnson Memorial Hospital,Short Term Acute Care Hospital,Tolland,Connecticut,9,13,9013,50,50,7,7,0,0.37172604000000004,2,0
+681,Day Kimball Hospital,Short Term Acute Care Hospital,Windham,Connecticut,9,15,9015,104,104,6,6,0,0.36246049,3,0
+682,Windham Hospital (FKA Windham Community Memorial Hospital),Short Term Acute Care Hospital,Windham,Connecticut,9,15,9015,40,40,8,8,0,0.67431509,2,0
+683,Bayhealth Hospital - Kent Campus,Short Term Acute Care Hospital,Kent,Delaware,10,1,10001,266,281,29,29,15,0.6877200000000001,12,-15
+684,Christiana Hospital,Short Term Acute Care Hospital,New Castle,Delaware,10,3,10003,906,906,73,73,0,0.68970597,58,0
+685,Saint Francis Healthcare,Short Term Acute Care Hospital,New Castle,Delaware,10,3,10003,395,180,20,20,6,0.32628614,4,215
+686,TidalHealth Nanticoke (FKA Nanticoke Memorial Hospital),Short Term Acute Care Hospital,Sussex,Delaware,10,5,10005,139,94,9,9,0,0.49930242,4,45
+687,Beebe Healthcare - Margaret H Rollins Lewes Campus (FKA Beebe Medical Center),Short Term Acute Care Hospital,Sussex,Delaware,10,5,10005,210,195,34,34,0,0.63560224,6,15
+688,George Washington University Hospital,Short Term Acute Care Hospital,District of Columbia,District of Columbia,11,1,11001,395,333,56,56,0,0.9460272200000001,18,62
+689,Howard University Hospital,Short Term Acute Care Hospital,District of Columbia,District of Columbia,11,1,11001,482,227,36,36,0,0.56905228,4,255
+690,MedStar Georgetown University Hospital,Short Term Acute Care Hospital,District of Columbia,District of Columbia,11,1,11001,609,393,57,57,47,0.84440726,14,216
+691,Sibley Memorial Hospital,Short Term Acute Care Hospital,District of Columbia,District of Columbia,11,1,11001,342,198,14,14,0,0.56756717,5,144
+692,United Medical Center (AKA Not for Profit Hospital Corporation - Closing 2023),Short Term Acute Care Hospital,District of Columbia,District of Columbia,11,1,11001,210,157,16,16,0,0.51227641,5,53
+693,MedStar Washington Hospital Center,Short Term Acute Care Hospital,District of Columbia,District of Columbia,11,1,11001,912,701,92,92,0,0.82585347,38,211
+694,Childrens National Medical Center (AKA Childrens National Health System),Childrens Hospital,District of Columbia,District of Columbia,11,1,11001,323,323,73,73,66,0.79700214,7,0
+695,UF Health Shands Hospital (FKA Shands at the University of Florida),Short Term Acute Care Hospital,Alachua,Florida,12,1,12001,1014,742,170,170,118,0.77995932,29,272
+696,North Florida Regional Medical Center,Short Term Acute Care Hospital,Alachua,Florida,12,1,12001,432,381,41,41,12,0.83970857,17,51
+697,Gulf Coast Regional Medical Center,Short Term Acute Care Hospital,Bay,Florida,12,5,12005,223,223,20,20,32,0.80024439,8,0
+698,Ascension Sacred Heart Hospital Bay (AKA Bay Medical Sacred Heart),Short Term Acute Care Hospital,Bay,Florida,12,5,12005,323,123,57,57,0,0.90614754,12,200
+699,Melbourne Regional Medical Center (FKA Wuesthoff Medical Center - Melbourne),Short Term Acute Care Hospital,Brevard,Florida,12,9,12009,119,96,12,12,0,0.31606734000000003,3,23
+700,Parrish Medical Center (AKA Parrish Healthcare),Short Term Acute Care Hospital,Brevard,Florida,12,9,12009,210,210,8,8,0,0.33799088,6,0
+701,Holmes Regional Medical Center,Short Term Acute Care Hospital,Brevard,Florida,12,9,12009,550,514,64,64,0,0.74249774,21,36
+702,Rockledge Regional Medical Center (FKA Wuesthoff Medical Center - Rockledge),Short Term Acute Care Hospital,Brevard,Florida,12,9,12009,298,274,31,31,0,0.38939106,6,24
+703,Cape Canaveral Hospital,Short Term Acute Care Hospital,Brevard,Florida,12,9,12009,150,150,12,12,0,0.4912146,5,0
+704,Plantation General Hospital,Short Term Acute Care Hospital,Broward,Florida,12,11,12011,264,264,61,61,51,0.46946532,8,0
+705,Westside Regional Medical Center,Short Term Acute Care Hospital,Broward,Florida,12,11,12011,250,250,32,32,0,0.70438677,10,0
+706,Memorial Hospital Pembroke,Short Term Acute Care Hospital,Broward,Florida,12,11,12011,301,301,24,24,0,0.27831635,2,0
+707,Northwest Medical Center,Short Term Acute Care Hospital,Broward,Florida,12,11,12011,283,283,24,24,11,0.61684191,6,0
+708,Broward Health Imperial Point (FKA Imperial Point Medical Center),Short Term Acute Care Hospital,Broward,Florida,12,11,12011,204,157,10,10,0,0.51253867,3,47
+709,University Hospital & Medical Center,Short Term Acute Care Hospital,Broward,Florida,12,11,12011,317,245,15,15,0,0.31515557,4,72
+710,Broward Health North (FKA North Broward Medical Center),Short Term Acute Care Hospital,Broward,Florida,12,11,12011,409,304,29,29,0,0.58173352,7,105
+711,Holy Cross Hospital,Short Term Acute Care Hospital,Broward,Florida,12,11,12011,557,319,44,44,9,0.57770944,10,238
+712,Memorial Regional Hospital,Short Term Acute Care Hospital,Broward,Florida,12,11,12011,797,553,92,92,84,0.58365995,10,244
+713,Broward Health Medical Center (FKA Broward General Medical Center),Short Term Acute Care Hospital,Broward,Florida,12,11,12011,716,572,57,57,0,0.5631090400000001,10,144
+714,Cleveland Clinic Florida,Short Term Acute Care Hospital,Broward,Florida,12,11,12011,206,230,48,48,0,0.76240617,5,-24
+715,Memorial Hospital Miramar,Short Term Acute Care Hospital,Broward,Florida,12,11,12011,178,178,18,18,16,0.44728336,2,0
+716,Broward Health Coral Springs (FKA Coral Springs Medical Center),Short Term Acute Care Hospital,Broward,Florida,12,11,12011,250,224,16,16,0,0.50213456,4,26
+717,Memorial Hospital West,Short Term Acute Care Hospital,Broward,Florida,12,11,12011,486,486,32,32,20,0.55478537,5,0
+718,Bayfront Health - Punta Gorda (FKA Charlotte Regional Medical Center),Short Term Acute Care Hospital,Charlotte,Florida,12,15,12015,208,136,10,10,0,0.35022159999999997,4,72
+719,Bayfront Health - Port Charlotte (FKA Peace River Regional Medical Center),Short Term Acute Care Hospital,Charlotte,Florida,12,15,12015,254,254,22,22,7,0.52049398,6,0
+720,Fawcett Memorial Hospital,Short Term Acute Care Hospital,Charlotte,Florida,12,15,12015,253,233,19,19,0,0.69597852,9,20
+721,Bayfront Health - Seven Rivers (FKA Seven Rivers Regional Medical Center),Short Term Acute Care Hospital,Citrus,Florida,12,17,12017,128,128,16,16,0,0.53630137,5,0
+722,Citrus Memorial Hospital,Short Term Acute Care Hospital,Citrus,Florida,12,17,12017,204,204,24,24,0,0.64182109,9,0
+723,Orange Park Medical Center,Short Term Acute Care Hospital,Clay,Florida,12,19,12019,317,273,28,28,16,0.83106148,14,44
+724,Physicians Regional Medical Center - Pine Ridge,Short Term Acute Care Hospital,Collier,Florida,12,21,12021,105,101,24,24,0,0.70586795,6,4
+725,Lake City Medical Center,Short Term Acute Care Hospital,Columbia,Florida,12,23,12023,91,91,18,18,0,0.69607103,4,0
+726,Desoto Memorial Hospital,Short Term Acute Care Hospital,DeSoto,Florida,12,27,12027,49,49,8,8,0,0.17360917,2,0
+727,Memorial Hospital Jacksonville,Short Term Acute Care Hospital,Duval,Florida,12,31,12031,454,396,51,51,10,0.7017849700000001,13,58
+728,Mayo Clinic Hospital - Florida,Short Term Acute Care Hospital,Duval,Florida,12,31,12031,304,304,54,54,0,0.76716286,15,0
+729,Baptist Medical Center Beaches,Short Term Acute Care Hospital,Duval,Florida,12,31,12031,146,135,24,24,0,0.54841197,5,11
+730,UF Health Jacksonville,Short Term Acute Care Hospital,Duval,Florida,12,31,12031,603,534,80,80,56,0.7024771,16,69
+731,Ascension St Vincents Riverside Hospital,Short Term Acute Care Hospital,Duval,Florida,12,31,12031,528,479,37,37,10,0.52118486,12,49
+732,Ascension St Vincents Southside Hospital,Short Term Acute Care Hospital,Duval,Florida,12,31,12031,313,278,17,17,10,0.29638913,4,35
+733,Ascension Sacred Heart Hospital Pensacola,Short Term Acute Care Hospital,Escambia,Florida,12,33,12033,566,533,34,34,82,0.59273499,17,33
+734,Baptist Hospital,Short Term Acute Care Hospital,Escambia,Florida,12,33,12033,492,266,37,37,0,0.74189925,7,226
+735,West Florida Hospital (AKA West Florida Healthcare),Short Term Acute Care Hospital,Escambia,Florida,12,33,12033,515,350,26,26,0,0.57992196,11,165
+736,AdventHealth Palm Coast (FKA Florida Hospital Flagler),Short Term Acute Care Hospital,Flagler,Florida,12,35,12035,99,99,18,18,0,0.92685759,3,0
+737,Florida State Hospital,Short Term Acute Care Hospital,Gadsden,Florida,12,39,12039,949,24,4,4,0,0.36289954,0,925
+738,AdventHealth Wauchula (FKA Florida Hospital Wauchula),Critical Access Hospital,Hardee,Florida,12,49,12049,25,25,4,4,0,0.94174862,1,0
+739,Hendry Regional Medical Center,Critical Access Hospital,Hendry,Florida,12,51,12051,25,25,3,3,0,0.12515068000000001,2,0
+740,Oak Hill Hospital,Short Term Acute Care Hospital,Hernando,Florida,12,53,12053,350,280,24,24,0,0.81274396,10,70
+741,Bayfront Health - Brooksville (FKA Brooksville Regional Hospital),Short Term Acute Care Hospital,Hernando,Florida,12,53,12053,120,120,20,20,10,0.4376151,4,0
+742,Highlands Regional Medical Center,Short Term Acute Care Hospital,Highlands,Florida,12,55,12055,126,110,16,16,0,0.30849314,4,16
+743,AdventHealth Sebring (FKA Florida Hospital Heartland Medical Center),Short Term Acute Care Hospital,Highlands,Florida,12,55,12055,147,180,22,22,0,0.65751904,4,-33
+744,Tampa General Hospital (AKA Florida Health Sciences Center),Short Term Acute Care Hospital,Hillsborough,Florida,12,57,12057,1006,898,101,101,91,0.81763434,36,108
+745,South Florida Baptist Hospital,Short Term Acute Care Hospital,Hillsborough,Florida,12,57,12057,147,136,25,25,0,0.47415391,3,11
+746,Brandon Regional Hospital,Short Term Acute Care Hospital,Hillsborough,Florida,12,57,12057,422,393,54,54,22,0.6396668,10,29
+747,AdventHealth Tampa (FKA Florida Hospital Tampa),Short Term Acute Care Hospital,Hillsborough,Florida,12,57,12057,536,506,58,58,28,0.60961068,8,30
+748,Memorial Hospital of Tampa (FKA IASIS Memorial Hospital of Tampa),Short Term Acute Care Hospital,Hillsborough,Florida,12,57,12057,183,312,12,12,0,0.22713383,3,-129
+749,St Josephs Hospital,Short Term Acute Care Hospital,Hillsborough,Florida,12,57,12057,807,527,106,106,64,0.64321905,18,280
+750,AdventHealth Carrollwood (FKA Florida Hospital Carrollwood),Short Term Acute Care Hospital,Hillsborough,Florida,12,57,12057,103,103,8,8,0,0.6105634600000001,2,0
+751,Tampa Community Hospital (FKA Town & Country Hospital),Short Term Acute Care Hospital,Hillsborough,Florida,12,57,12057,201,182,11,11,0,0.22490536,2,19
+752,South Bay Hospital,Short Term Acute Care Hospital,Hillsborough,Florida,12,57,12057,138,138,12,12,0,0.48788962,3,0
+753,Moffitt Cancer Center (AKA H Lee Moffitt Cancer Center & Research Institute),Short Term Acute Care Hospital,Hillsborough,Florida,12,57,12057,218,206,30,30,0,0.78388083,3,12
+754,James A Haley Veterans Hospital,VA Hospital,Hillsborough,Florida,12,57,12057,415,415,2,2,0,0.0,2,0
+755,Doctors Memorial Hospital,Critical Access Hospital,Holmes,Florida,12,59,12059,20,20,3,3,0,0.45698631,2,0
+756,Cleveland Clinic Indian River Hospital (FKA Indian River Medical Center),Short Term Acute Care Hospital,Indian River,Florida,12,61,12061,332,310,24,24,0,0.48579761,7,22
+757,Sebastian River Medical Center,Short Term Acute Care Hospital,Indian River,Florida,12,61,12061,154,121,16,16,0,0.44811502000000003,4,33
+758,Jackson Hospital,Short Term Acute Care Hospital,Jackson,Florida,12,63,12063,100,66,7,7,0,0.52569532,3,34
+759,UF Health the Villages Hospital (FKA the Villages Regional Hospital),Short Term Acute Care Hospital,Sumter,Florida,12,119,12119,307,277,56,56,0,0.5834726100000001,8,30
+760,UF Health Leesburg Hospital (FKA Leesburg Regional Medical Center),Short Term Acute Care Hospital,Lake,Florida,12,69,12069,332,308,46,46,0,0.59330189,7,24
+761,AdventHealth Waterman (FKA Florida Hospital Waterman),Short Term Acute Care Hospital,Lake,Florida,12,69,12069,303,269,47,47,0,0.59308445,6,34
+762,Orlando Health South Lake Hospital,Short Term Acute Care Hospital,Lake,Florida,12,69,12069,170,140,16,16,0,0.87238747,6,30
+763,Lehigh Regional Medical Center,Short Term Acute Care Hospital,Lee,Florida,12,71,12071,88,78,8,8,0,0.35862312,4,10
+764,Lee Memorial Hospital,Short Term Acute Care Hospital,Lee,Florida,12,71,12071,414,355,75,75,129,0.71094799,40,59
+765,Gulf Coast Medical Center,Short Term Acute Care Hospital,Lee,Florida,12,71,12071,647,356,36,36,0,0.76579189,23,291
+766,Cape Coral Hospital,Short Term Acute Care Hospital,Lee,Florida,12,71,12071,291,291,22,22,23,0.647771,21,0
+767,Capital Regional Medical Center,Short Term Acute Care Hospital,Leon,Florida,12,73,12073,266,266,20,20,0,0.69814909,7,0
+768,Tallahassee Memorial HealthCare,Short Term Acute Care Hospital,Leon,Florida,12,73,12073,772,386,30,30,30,0.91878062,25,386
+769,Blake Medical Center,Short Term Acute Care Hospital,Manatee,Florida,12,81,12081,383,355,43,43,0,0.59572417,8,28
+770,Manatee Memorial Hospital,Short Term Acute Care Hospital,Manatee,Florida,12,81,12081,295,295,35,35,6,0.75734389,8,0
+771,Lakewood Ranch Medical Center,Short Term Acute Care Hospital,Manatee,Florida,12,81,12081,120,120,20,20,0,0.55892694,5,0
+772,AdventHealth Ocala (FKA Munroe Regional Medical Center),Short Term Acute Care Hospital,Marion,Florida,12,83,12083,425,425,44,44,0,0.50583816,10,0
+773,Ocala Regional Medical Center,Short Term Acute Care Hospital,Marion,Florida,12,83,12083,256,200,66,66,0,0.87313598,16,56
+774,Cleveland Clinic Martin North Hospital (FKA Martin Medical Center),Short Term Acute Care Hospital,Martin,Florida,12,85,12085,244,244,66,66,0,0.60936552,17,0
+775,Mount Sinai Medical Center (FL),Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,672,481,72,72,0,0.60677242,16,191
+776,Larkin Community Hospital - Palm Springs Campus (FKA Palm Springs General Hospital),Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,247,119,14,14,0,0.40694857,4,128
+777,North Shore Medical Center,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,337,305,58,58,18,0.44775259,14,32
+778,Jackson Memorial Hospital,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,1493,1622,91,91,97,0.60090029,24,-129
+779,Baptist Hospital,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,728,705,40,40,36,0.72941613,20,23
+780,Hialeah Hospital,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,366,350,21,21,10,0.3582826,9,16
+781,Sylvester Comprehensive Cancer Center,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,40,553,47,47,0,0.52082187,8,-513
+782,Kendall Regional Medical Center,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,417,394,52,52,20,0.6977331,15,23
+783,Larkin Community Hospital - South Miami Campus,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,146,118,8,8,0,0.5855815999999999,2,28
+784,Coral Gables Hospital,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,245,245,16,16,0,0.32847637,6,0
+785,Palmetto General Hospital,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,368,368,57,57,15,0.58554941,14,0
+786,Homestead Hospital,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,147,147,16,16,0,0.56073105,5,0
+787,South Miami Hospital,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,436,436,28,28,62,0.44535002,12,0
+788,Aventura Hospital and Medical Center,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,407,351,77,77,0,0.78764391,12,56
+789,Doctors Hospital,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,281,281,12,12,0,0.23751767000000001,4,0
+790,Miami VA Healthcare System - Bruce W Carter VA Medical Center,VA Hospital,Miami-Dade,Florida,12,86,12086,372,372,1,1,0,0.0,2,0
+791,Westchester General Hospital,Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,125,125,8,8,0,0.38043052,2,0
+792,Douglas Gardens Hospital (AKA Miami Jewish Health Systems),Short Term Acute Care Hospital,Miami-Dade,Florida,12,86,12086,32,32,6,6,0,0.24257173,0,0
+793,Lower Keys Medical Center,Short Term Acute Care Hospital,Monroe,Florida,12,87,12087,118,99,9,9,0,0.23176976,2,19
+794,Mariners Hospital,Critical Access Hospital,Monroe,Florida,12,87,12087,25,25,4,4,0,0.15802739999999998,2,0
+795,Fishermens Community Hospital,Critical Access Hospital,Monroe,Florida,12,87,12087,4,5,1,1,0,0.017534247000000003,2,-1
+796,Baptist Medical Center Nassau,Short Term Acute Care Hospital,Nassau,Florida,12,89,12089,62,54,9,9,0,0.55428714,3,8
+797,North Okaloosa Medical Center,Short Term Acute Care Hospital,Okaloosa,Florida,12,91,12091,110,110,20,20,0,0.46910083,4,0
+798,Fort Walton Beach Medical Center,Short Term Acute Care Hospital,Okaloosa,Florida,12,91,12091,237,189,23,23,10,0.84086508,9,48
+799,Twin Cities Hospital,Short Term Acute Care Hospital,Okaloosa,Florida,12,91,12091,65,65,8,8,0,0.36712906,2,0
+800,Raulerson Hospital,Short Term Acute Care Hospital,Okeechobee,Florida,12,93,12093,100,100,8,8,0,0.40278688,3,0
+801,Orlando Health Orlando Regional Medical Center,Short Term Acute Care Hospital,Orange,Florida,12,95,12095,898,808,71,71,159,0.74880534,21,90
+802,AdventHealth Orlando (FKA Florida Hospital Orlando),Short Term Acute Care Hospital,Orange,Florida,12,95,12095,1364,2247,221,221,118,0.6547294300000001,30,-883
+803,Orlando Health - Health Central Hospital,Short Term Acute Care Hospital,Orange,Florida,12,95,12095,216,211,14,14,0,0.72792315,4,5
+804,Osceola Regional Medical Center,Short Term Acute Care Hospital,Osceola,Florida,12,97,12097,404,345,52,52,24,0.82553262,9,59
+805,Orlando Health St Cloud Hospital (FKA St Cloud Regional Medical Center),Short Term Acute Care Hospital,Osceola,Florida,12,97,12097,84,84,8,8,0,0.54468364,3,0
+806,Delray Medical Center,Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,536,339,52,52,0,0.72509676,16,197
+807,West Palm Beach VA Medical Center,VA Hospital,Palm Beach,Florida,12,99,12099,254,254,2,2,0,0.0,2,0
+808,Good Samaritan Medical Center,Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,333,333,22,22,7,0.3491196,6,0
+809,St Marys Medical Center,Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,460,370,26,26,45,0.61821002,9,90
+810,Wellington Regional Medical Center,Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,235,233,16,16,25,0.63902324,7,2
+811,West Boca Medical Center,Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,195,194,16,16,39,0.5262250900000001,4,1
+812,Palms West Hospital,Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,204,204,18,18,10,0.65845656,4,0
+813,Lakeside Medical Center,Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,70,54,6,6,0,0.25520042,2,16
+814,Boca Raton Regional Hospital,Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,400,370,41,41,10,0.6334765,15,30
+815,Palm Beach Gardens Medical Center,Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,199,199,44,44,0,0.68636334,6,0
+816,Jupiter Medical Center,Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,242,207,17,17,0,0.6336841,4,35
+817,JFK Medical Center North Campus (FKA West Palm Hospital),Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,245,168,20,20,0,0.38714287000000003,3,77
+818,Bethesda Hospital East (FKA Bethesda Memorial Hospital),Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,401,431,40,40,0,0.59276068,14,-30
+819,JFK Medical Center,Short Term Acute Care Hospital,Palm Beach,Florida,12,99,12099,558,486,72,72,0,0.54029268,16,72
+820,AdventHealth Zephyrhills (FKA Florida Hospital Zephyrhills),Short Term Acute Care Hospital,Pasco,Florida,12,101,12101,149,149,14,14,0,0.64447916,3,0
+821,Morton Plant North Bay Hospital,Short Term Acute Care Hospital,Pasco,Florida,12,101,12101,150,192,22,22,0,0.7692494400000001,4,-42
+822,Medical Center of Trinity (FKA Community Hospital),Short Term Acute Care Hospital,Pasco,Florida,12,101,12101,278,245,34,34,12,0.67035842,6,33
+823,AdventHealth Dade City (FKA Florida Hospital Dade City),Short Term Acute Care Hospital,Pasco,Florida,12,101,12101,120,75,12,12,0,0.19472589999999998,2,45
+824,Regional Medical Center Bayonet Point,Short Term Acute Care Hospital,Pasco,Florida,12,101,12101,290,290,20,20,0,0.7432071,9,0
+825,Mease Countryside Hospital,Short Term Acute Care Hospital,Pinellas,Florida,12,103,12103,311,299,26,26,10,0.66179502,7,12
+826,Northside Hospital,Short Term Acute Care Hospital,Pinellas,Florida,12,103,12103,288,221,32,32,0,0.58842123,10,67
+827,Largo Medical Center,Short Term Acute Care Hospital,Pinellas,Florida,12,103,12103,286,250,22,22,0,0.6388692300000001,10,36
+828,St Petersburg General Hospital,Short Term Acute Care Hospital,Pinellas,Florida,12,103,12103,215,168,21,21,0,0.34792155,4,47
+829,Palms of Pasadena Hospital,Short Term Acute Care Hospital,Pinellas,Florida,12,103,12103,307,167,18,18,0,0.42647853,4,140
